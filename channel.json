@@ -1,11 +1,11 @@
 {
-  "version": "0.2.6",
-  "notes": "# poe2way overlay 0.2.6\n\n0.2.5의 보관함 표시·정렬·인게임 강조 기능을 유지하는 유지보수 배포입니다. 기존 설정과 자동 업데이트를 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-19T07:08:36.534Z",
+  "version": "0.2.7",
+  "notes": "# poe2way overlay 0.2.7\n\n설정에서 재현 상황·진단 정보·스크린샷을 첨부해 버그를 신고할 수 있습니다. 익명 설치·실행·주요 기능 사용 지표를 수집하고 오프라인 기록을 재전송합니다. 설정의 구독 버튼으로 사이트 결제를 연결합니다. 보관함 입력 모달과 강조 색상 설정, 게임 화면 인식 개선도 포함합니다. 기존 설정과 자동 업데이트를 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-19T10:16:49.608Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHk3a1h6TG04WWI3SXNSekFrMk1wNC83MjR1cE5BVGM0N0RaM1Jxdi80eFR3VUk0TkRxUEs3dEZISGRwL1BuNG5iSGl0VmFZa21rdnJrVGFHdk82WGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzkzNTgwCWZpbGU6cG9lMndheSBvdmVybGF5XzAuMi42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNgpSNjRKSWNQbHpmOW50ZVUwRlhxWW9ZOWxXQUV6Z0dpVktTSGpZMHd1SGd1bTY1TkF1RlFZY3RvVG5RSUdxbHl4NHJCNFo1STFxVDZMdkZBbHFJUzZEZz09Cg==",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.2.6/poe2way-overlay_0.2.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDI3bGNRbE1hS2hRKzBnUk1CWUljb3ZTT25DTkMrZC84SWhFSkFwWlhlcHpwWHNzdFJlK08rSEVJQlJSSElXRUxpaHhLRDBnbFZvM2xRNnJHY01GNWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDAzNDg4CWZpbGU6cG9lMndheSBvdmVybGF5XzAuMi43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNwo0cGhRTDZYT2g4WUowRDB4dURFRGZzOFIyMjFqUzlQK3A0cE1sNkhaVmZkNTNPRHllTnhZamJtTTVQZVdENXYwbXhVTEk5Wmd6U3JhWXpBWURUN3BBUT09Cg==",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.2.7/poe2way-overlay_0.2.7_x64-setup.exe"
     }
   }
 }
