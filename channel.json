@@ -1,11 +1,11 @@
 {
-  "version": "0.2.7",
-  "notes": "# poe2way overlay 0.2.7\n\n설정에서 재현 상황·진단 정보·스크린샷을 첨부해 버그를 신고할 수 있습니다. 익명 설치·실행·주요 기능 사용 지표를 수집하고 오프라인 기록을 재전송합니다. 설정의 구독 버튼으로 사이트 결제를 연결합니다. 보관함 입력 모달과 강조 색상 설정, 게임 화면 인식 개선도 포함합니다. 기존 설정과 자동 업데이트를 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-19T10:16:49.608Z",
+  "version": "0.2.8",
+  "notes": "# poe2way desktop 0.2.8\n\n제품명을 poe2way desktop으로 변경하고 기존 설정·설치 경로와 자동 업데이트를 유지합니다. 버그 신고창과 재화 이력 그래프를 개선하고, Agent 음성 입력·메뉴와 보관함·평가 화면 개선을 포함합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-19T13:49:41.772Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDI3bGNRbE1hS2hRKzBnUk1CWUljb3ZTT25DTkMrZC84SWhFSkFwWlhlcHpwWHNzdFJlK08rSEVJQlJSSElXRUxpaHhLRDBnbFZvM2xRNnJHY01GNWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDAzNDg4CWZpbGU6cG9lMndheSBvdmVybGF5XzAuMi43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNwo0cGhRTDZYT2g4WUowRDB4dURFRGZzOFIyMjFqUzlQK3A0cE1sNkhaVmZkNTNPRHllTnhZamJtTTVQZVdENXYwbXhVTEk5Wmd6U3JhWXpBWURUN3BBUT09Cg==",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.2.7/poe2way-overlay_0.2.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDA2WlVRbUx3TklpRE1nQnp6d2pic2lrVmZ6Wk9OL3ZiMnZMWEQ3SzZCc2dFSzR3RXFiN29ITU5Cd05jUHByWE0rTVFkdlF6aFMzT2QxdG5pbjlNTFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDE3NjIzCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMi44X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuOAo2RmNIRmRpeWhrcFhVNGRvTlNoRUV5OGFsZG5yS3pkYzQ2bmJzRm1KOVZzdVlGNWd5RWw5aGsyYkwxZ05LRkhqTmNLdjZFN1ViWDRaWEs4U0tPK1pBdz09Cg==",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.2.8/poe2way-desktop_0.2.8_x64-setup.exe"
     }
   }
 }
