@@ -1,11 +1,11 @@
 {
-  "version": "0.2.5",
-  "notes": "# poe2way overlay 0.2.5\n\n보관함 탭 이름 배지의 게임 접두어와 칸 배치의 가격 아이콘 확대 오류를 수정했습니다. 특수 보관함 정렬·추정 디바인 합계 표시와 인게임 강조 설정을 개선했습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-19T06:06:32.281Z",
+  "version": "0.2.6",
+  "notes": "# poe2way overlay 0.2.6\n\n0.2.5의 보관함 표시·정렬·인게임 강조 기능을 유지하는 유지보수 배포입니다. 기존 설정과 자동 업데이트를 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-19T07:08:36.534Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDR2UFhRaS9rYkhxVWdFdkQ5VlpLWlB4NGVSNEpLT0x0MGYzbXpHaXJSQ2h2aWN0a0ZkUzRqQnA1M24wRTcrVVRxNWRiNjJISGdGNkRaLzMvVVFKeEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzg5ODk1CWZpbGU6cG9lMndheSBvdmVybGF5XzAuMi41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNQpsM0t6b2RyVjg1djV4c29uWWEwNm1rMmlJR0s0Z1RQZytyWEVQVmw2dXRtWjUvRHc3ZXl2Yk1rQzNWMVFaOEJjNGluSjNPMjRtN3N4ZnY5OStxcVZDZz09Cg==",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.2.5/poe2way-overlay_0.2.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHk3a1h6TG04WWI3SXNSekFrMk1wNC83MjR1cE5BVGM0N0RaM1Jxdi80eFR3VUk0TkRxUEs3dEZISGRwL1BuNG5iSGl0VmFZa21rdnJrVGFHdk82WGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzkzNTgwCWZpbGU6cG9lMndheSBvdmVybGF5XzAuMi42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNgpSNjRKSWNQbHpmOW50ZVUwRlhxWW9ZOWxXQUV6Z0dpVktTSGpZMHd1SGd1bTY1TkF1RlFZY3RvVG5RSUdxbHl4NHJCNFo1STFxVDZMdkZBbHFJUzZEZz09Cg==",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.2.6/poe2way-overlay_0.2.6_x64-setup.exe"
     }
   }
 }
