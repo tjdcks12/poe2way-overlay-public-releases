@@ -1,0 +1,18 @@
+{
+  "version": "0.2.6",
+  "edition": "public",
+  "overlayCommit": "907fba28e5915b39e7bd2bb9f809c975730fa5e1",
+  "webCommit": "b1f836573b161ee2e1b94f4620e0a8ba6c65ba46",
+  "sourceTreeVerified": true,
+  "createdAt": "2026-10-19T07:08:36.534Z",
+  "assets": [
+    {
+      "edition": "public",
+      "file": "poe2way-overlay_0.2.6_x64-setup.exe",
+      "bytes": 11677797,
+      "sha256": "60c84d872a6964d5acccd8b7fded95f1c3b10f49341377a2516697927692bf5b",
+      "signature": "poe2way-overlay_0.2.6_x64-setup.exe.sig"
+    }
+  ],
+  "updaterSignatureVerified": true
+}
