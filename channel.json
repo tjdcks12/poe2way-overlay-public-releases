@@ -1,11 +1,11 @@
 {
-  "version": "0.3.10",
-  "notes": "# poe2way desktop 0.3.10\n\n크래프팅의 전체 재화 효과 창에서 제목과 닫기 버튼을 스크롤 영역 밖에 고정했습니다. 목록을 끝까지 내리거나 더 불러와도 바로 닫을 수 있습니다. 아이템 선택·가져오기·비교 창에도 같은 구성을 적용했습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-20T13:27:14.189Z",
+  "version": "0.3.11",
+  "notes": "# poe2way desktop 0.3.11\n\n크래프팅 재화 효과 목록에서 구현 상태 안내와 게임 내 사용 방법을 제거했습니다. 재화 이미지·이름·효과를 간결하게 표시하고, 툴팁과 상세 영역의 내부 구현 상태 문구도 정리했습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-20T13:43:12.425Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHpjell6MVAyOWlzbVBvOGhtT2ZwMzc5TDRNREp4K3VFZXkwWTJCbm9vbTYxczhsdnJhakhydk5oTkVRWHlzTloxbFRybnhqRDhDcWdnWjZQUHBFUlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTAyNTE3CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4xMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjEwCnhkUUZ6c04vMDdrcVgvcjNrY0hWVzBtYkgxZHR1K3ZuZEdnNnRzSHNrR1ova2VlMnk2bTFtdnBCUWlURGNhNGhlMzkrMHFST25wZnZIK0cxcEsreERRPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.10/poe2way-desktop_0.3.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbCtBbi81TTJKVWp0alI3cUFGQ2NjRHhWMUlJNFVMbWtGaUFZczVvVmh3dHJRRzhjakJUYVhSZHlLZFZIVjQwUHRSa2RoK2FsNG9PZmwvZWU4QzVkMmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTAzNDk3CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4xMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjExCmtpZEFvWG9yMEthNldwUXNVdXg3TEdWdStjWWkrMGpOMmN4UU4wS1VxTWdRQmJackZwbGxTVnlDb3Z1NEJTNEJ3VnNiaGVndnRteE85c08vMnkvdUR3PT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.11/poe2way-desktop_0.3.11_x64-setup.exe"
     }
   }
 }
