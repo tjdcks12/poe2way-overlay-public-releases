@@ -1,11 +1,11 @@
 {
-  "version": "0.3.11",
-  "notes": "# poe2way desktop 0.3.11\n\n크래프팅 재화 효과 목록에서 구현 상태 안내와 게임 내 사용 방법을 제거했습니다. 재화 이미지·이름·효과를 간결하게 표시하고, 툴팁과 상세 영역의 내부 구현 상태 문구도 정리했습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-20T13:43:12.425Z",
+  "version": "0.3.12",
+  "notes": "# poe2way desktop 0.3.12\n\n목표 옵션에 맞는 제작 방법의 성공률과 예상 재화 비용을 자동으로 비교합니다. 직접 제작할 때 선택한 재화는 비교 결과에 영향을 주지 않으며, 신성한 오브는 기존 옵션의 수치 재설정에 활용할 수 있을 때 표시됩니다. 모디파이어 목록을 제외한 제작 화면의 내부 스크롤을 제거했습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-20T15:53:26.252Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbCtBbi81TTJKVWp0alI3cUFGQ2NjRHhWMUlJNFVMbWtGaUFZczVvVmh3dHJRRzhjakJUYVhSZHlLZFZIVjQwUHRSa2RoK2FsNG9PZmwvZWU4QzVkMmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTAzNDk3CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4xMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjExCmtpZEFvWG9yMEthNldwUXNVdXg3TEdWdStjWWkrMGpOMmN4UU4wS1VxTWdRQmJackZwbGxTVnlDb3Z1NEJTNEJ3VnNiaGVndnRteE85c08vMnkvdUR3PT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.11/poe2way-desktop_0.3.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDhpVFgrc0pSNjZYQk5qYm8rYnMyd0dpeGRDaFlvU2dpWS8welVMODFPOHpSTjE5UFlDclVya3lLemRYdVR4Umovd2w5ZW1MUFBwOEZSSTBVTjlPOGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTExMjM3CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4xMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjEyCnNjSnFwaUVocklwRFFVYTdlMVkxdWF3UmJaQXpuQjYwTExwUnVlTXdScXhSRlc3RmpIdXJrQW9LcE53ak9CMXVmb3BWYXZlY1BVM0NSRll6RTBXQ0JBPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.12/poe2way-desktop_0.3.12_x64-setup.exe"
     }
   }
 }
