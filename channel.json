@@ -1,11 +1,11 @@
 {
-  "version": "0.3.0",
-  "notes": "# poe2way desktop 0.3.0\n\n아이템 평가에서 검색 조건과 결과를 구분하고 탭 전환 시 화면 흔들림을 줄였습니다. Agent 음성 대화와 Windows CLI 실행을 개선했습니다. 실행 파일은 poe2way-desktop.exe로 변경되며 기존 설치 경로·설정·로그인과 자동 업데이트를 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-19T16:12:22.430Z",
+  "version": "0.3.1",
+  "notes": "# poe2way desktop 0.3.1\n\n장비 제작 연습 화면을 추가했습니다. 재화를 선택해 아이템에 반복 적용하고, 목표 옵션·티어를 바꾸면 성공 확률과 예상 재화 비용을 자동 계산합니다. 장비 카테고리 선택, 에센스·징조·지원되는 특수 제작, 기존 시세 자동 연동과 10개 언어를 지원합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-20T10:27:55.707Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDBFczFZMVNudlpVeDYzQk82dEtqOEtpS2RYck5HVUhrMi9IUytBR3J1c3BQcU5hdUl1bWNqYUs0VldUeVNmd09HRm1NRnIxSHhMNFZwbVlPb2djT0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDI2MjE3CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMApwYW1HZklkRGtPY3R0c0N2cGhXZmJOM0JMTHp4a1MxM2Uxd3gvaVBVUjIvL3FQcGhJU1k3WlpPRHRqYXhnNThWNUp2bFR0YjhYaERkOUxoeFJvSVdEUT09Cg==",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.0/poe2way-desktop_0.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHlCZTg3Zkh2TDgyOHhoOUswQThJckFFWDBhSkFEOG1xWkxKVGI5dzIxaTFoUldUVDRySU0wOG5RN1Y2MW9OcVI4U05vME9sSFlMaWhLeEFLeGpLZEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDkxNzc5CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMQpqVm45YXIxbndYUVlTaUVPUFRRcVEvT2g3Ri9VVlgvUERPZkVpU3VYSTBJWnB5QWJPWUNXam9TZFBmRkRtSG90NnhwRXlXL3Z6QjZrdmw1WS94eXJBdz09Cg==",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.1/poe2way-desktop_0.3.1_x64-setup.exe"
     }
   }
 }
