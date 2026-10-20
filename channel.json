@@ -1,11 +1,11 @@
 {
-  "version": "0.3.8",
-  "notes": "# poe2way desktop 0.3.8\n\n크래프팅 총 사용 비용을 엑잘 기준 정수로 반올림하고, 같은 리그의 기존 시세를 이용한 디바인 환산값을 함께 표시합니다. 최근 추가된 옵션의 왼쪽 강조선을 없애 글자가 다른 옵션과 자연스럽게 정렬되도록 수정했습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-20T12:34:42.347Z",
+  "version": "0.3.9",
+  "notes": "# poe2way desktop 0.3.9\n\n크래프팅 아이템 창의 중복된 사용 버튼과 재화 표시를 제거했습니다. 아이템 창은 모든 옵션이 보이도록 내용에 맞춰 늘어나며 내부 스크롤을 사용하지 않습니다. 재화 선택 후 아이템 클릭, 반복 사용, 우클릭·Esc 취소와 썸네일의 키보드 조작을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-20T12:59:28.552Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDJlL1FkSTdhZEJ1ckNkNnVmUmtLL3JHdlRvcGg3M3U0LzVWa0tGWUl3OFJyNjNtTy9NMUVQMmlGSnRIMXRmbHhoc2FPNHdIR2ZPc2RyRTdNZlB1cWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDk5MjI1CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy44X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuOAo1dm1PVjNSaWVzUEptZ0RUcVZuYnlZaTZkNlhwYVZvOVYrSXRPWXcySDJhdlpVOVBWQ29GODVMb3BOb0hFdElnSldQbk9sUHg5S1JHUUZaNnpyRUtBZz09Cg==",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.8/poe2way-desktop_0.3.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDhiUkVaOHl4dmlEcGZ0WCtyZHVMVVpNemtjMzYzTXp0cUxmN2dNZzhENS9JZFdpeWhwVmpsQmRDQyszTHdBNHRFbHBvZlBsaVY0RFR1bHpwUytpQVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTAwNzM0CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuOQpxbStKbnBkZFRUek91WldLWUFITXJRSmtVSFF1czZmVEdQc3h3d1lNQTd0TUluQVpPUytsUU05eEtmRldSR0NBT1MvdVA2c0xKWmRRdEsrVXBJUThDUT09Cg==",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.9/poe2way-desktop_0.3.9_x64-setup.exe"
     }
   }
 }
