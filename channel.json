@@ -1,11 +1,11 @@
 {
-  "version": "0.3.5",
-  "notes": "# poe2way desktop 0.3.5\n\n심연 제작을 기본 가중치 모드에서 사용할 수 있도록 수정했습니다. 심연 전용 옵션은 가중치 1, 일반 옵션은 기존 가중치를 사용합니다. 같은 중복 그룹의 심연·일반 옵션은 함께 붙지 않으며, 별도 그룹인 복합 옵션은 허용합니다. 심연 공개·선택까지 포함해 성공 확률과 예상 비용을 계산합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-20T11:20:38.542Z",
+  "version": "0.3.6",
+  "notes": "# poe2way desktop 0.3.6\n\n크래프팅에 사용한 재화와 징조의 누적 비용을 기존 시세로 자동 표시합니다. 되돌리기·다시 실행·저장 기록에 맞춰 수량과 비용이 바뀝니다. 시작 아이템 구매비용과 재화 가격 직접 수정 항목을 제거했습니다. 확률 계산은 재화함에서 선택한 재화의 1회 사용 결과로 표시하고, 여러 재화의 반복 제작은 접힌 자동 제작 시뮬레이션으로 정리했습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-20T11:50:26.444Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDNrQkh0VGlLMDBhSzNqWkZRays2T0tKKytQbmZBbWM5OHNWdk9Rc3VPT0RPOXVXVkpuc1IvMzNQQ0hjaEhHMGVaa29iSHl2Ymo3Zkc2clZZT3R2MHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDk0NzIxCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNQppMU9EdU1PUXA0WmdLSzF2Sng0NFJNSmdpWTRySEpNQ2pqcTZXOHpUNVdNYVdmS0VZeU5Za013NysyNnJSeGpUcklITDc5ZVY0NTJmRE5YRjhPaDZCQT09Cg==",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.5/poe2way-desktop_0.3.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDAxczlDSllBd2VuMno5T0dnK0lZNk1HODVhUGMzNjVHRjM5TWR1OXkzbHNLUVJEK1RkYjExaTV6U0Z4L0xhWXlDMk8zZkpNbjJoSWVCbnJ2MHBDamdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDk2Nzk1CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNgpPU0tnSDNLeUJJalVSSEFOeXJJOGZrSWd6akhWRDRLOTJiVFF4RDZ4K1R3TGtvaFc3UXBDVkxTRC9XUm9aOEUxenQ1OXkwSllSV2VSSExDWmlLYnpDdz09Cg==",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.6/poe2way-desktop_0.3.6_x64-setup.exe"
     }
   }
 }
