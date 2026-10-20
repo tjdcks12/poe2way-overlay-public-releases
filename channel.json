@@ -1,11 +1,11 @@
 {
-  "version": "0.3.13",
-  "notes": "# poe2way desktop 0.3.13\n\n드문 목표 옵션을 지정하면 모든 제작 방법이 성공 0회·예상 비용 공란으로 표시되던 문제를 수정했습니다. 드문 결과의 원래 가중치를 보정해 성공률과 비용을 추정하며, 아주 작은 성공률도 0%로 반올림하지 않습니다. 계산이 끝난 제작 방법부터 먼저 표시합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-20T18:55:15.114Z",
+  "version": "0.3.14",
+  "notes": "# poe2way desktop 0.3.14\n\n설정 > 기본 > 테마에서 데스크톱 색상 테마 9종(기본값, 라이트, PoE2 브론즈, OLED 블랙, 고대비, 드루이드의 숲, 서리, 심연, 잿불)을 고를 수 있습니다. 게임 위 오버레이를 포함한 모든 창에 바로 적용됩니다. 크래프팅 작업대는 실패 뒤 복구 계획(조건부 수리·유료 재시작)까지 계산하고, 아이템 준비 비용을 제작 단계 사이에 유지하며, 패널마다 따로 스크롤됩니다. AI Agent는 크래프팅 목표를 작업대와 같은 제작 방법 비교로 답하고, 장비 슬롯별 검색 정규식을 웹 /db와 같은 방식으로 만듭니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-20T20:40:44.671Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDV5b0czZS94ZU1LZWlpeVhIWW1TNlo3cGhMd3JGQkhyYWt0KzhDK050alpXSVd6THM1b1FBck5JT2RRZHpURFJZaHgrRU5BeW0yUDU2YWNLSE1hQUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTIyMzE5CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4xM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjEzCnNlVk9ZTnlaeldNNHVPTWFqaEpaVkFNOU9kc1hMYkpDbkVDWTFBM3p0SXRib0FxNVZtWkxKakUxMlZ2UnhCU2FMVUJkYjZwRkhRR2xXaWI1REVzdUFBPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.13/poe2way-desktop_0.3.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDlWSVJXK0J4VmVWVnJnUGJ0U0g2aVlLSTViM2FFVzNlSCsyMERubWpxcDVLSGkramcrVTg5SkdLN09nWGVEenRYakJEeHQ2YkhCSVdKV3pBRytONnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTI3OTk2CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4xNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjE0CmNKRWhLbFcwSWFtUEV6UjV6YzhmbnNnc2hrNkhELzcvV296MWh2SzRRU1c3eFo4WWJmcTlBSmd3ZDFDK3orTGZHUndDbWhtUWlUN2RrVXRQVjJFTUJBPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.14/poe2way-desktop_0.3.14_x64-setup.exe"
     }
   }
 }
