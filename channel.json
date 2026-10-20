@@ -1,11 +1,11 @@
 {
-  "version": "0.3.4",
-  "notes": "# poe2way desktop 0.3.4\n\n액트 가이드의 보스 이름 옆에 준비할 속성 저항을 작은 아이콘으로 표시합니다. 아이콘에 마우스를 올리거나 키보드로 선택하면 한 줄 안내가 나타납니다. 웹·데스크톱·게임 오버레이에 같은 표시를 제공하며, 설정에서 기존 보기로 돌아갈 수 있습니다. 기존 공략과 완료 기록은 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-20T11:03:32.173Z",
+  "version": "0.3.5",
+  "notes": "# poe2way desktop 0.3.5\n\n심연 제작을 기본 가중치 모드에서 사용할 수 있도록 수정했습니다. 심연 전용 옵션은 가중치 1, 일반 옵션은 기존 가중치를 사용합니다. 같은 중복 그룹의 심연·일반 옵션은 함께 붙지 않으며, 별도 그룹인 복합 옵션은 허용합니다. 심연 공개·선택까지 포함해 성공 확률과 예상 비용을 계산합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-20T11:20:38.542Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHhscjFpU0lVbS9IK09tUGE5a1BlRFZHMmZhZE1TeEZZQThqeHFid3ZaUWhYUnNuSkVDejBOUG8xTE5vUE0zR0RSTStVZXh0eFJxdUNKdG1wajNrdkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDk0MDI1CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNApJeldPVGZYaWVVMmhRS2lpWEtycVpXYnJYMmhPdG90UHQ0MHIrbUpjU3R1UzEwSHNVT0pxNWhIYVhwRWhnV013cVhnaXJ0dWt5bkdYdzBXZ2t5bWdEQT09Cg==",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.4/poe2way-desktop_0.3.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDNrQkh0VGlLMDBhSzNqWkZRays2T0tKKytQbmZBbWM5OHNWdk9Rc3VPT0RPOXVXVkpuc1IvMzNQQ0hjaEhHMGVaa29iSHl2Ymo3Zkc2clZZT3R2MHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDk0NzIxCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNQppMU9EdU1PUXA0WmdLSzF2Sng0NFJNSmdpWTRySEpNQ2pqcTZXOHpUNVdNYVdmS0VZeU5Za013NysyNnJSeGpUcklITDc5ZVY0NTJmRE5YRjhPaDZCQT09Cg==",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.5/poe2way-desktop_0.3.5_x64-setup.exe"
     }
   }
 }
