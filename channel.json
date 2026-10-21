@@ -1,11 +1,11 @@
 {
-  "version": "0.3.15",
-  "notes": "# poe2way desktop 0.3.15\n\nAI Agent 응답 속도를 개선했습니다. 대화는 따로 고르지 않으면 보통(medium) 추론 수준으로 시작하고, poe2way 도구만 연결해 다른 전역 MCP 서버와 메모리를 불러오지 않습니다. 자주 묻는 질문은 필요한 도구로 바로 답하고, 매 턴 반복하던 상황·기능 조회와 큰 조회 응답을 줄였습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-21T02:59:47.982Z",
+  "version": "0.3.16",
+  "notes": "# poe2way desktop 0.3.16\n\n보스 저항 안내가 항상 표시됩니다. 설정의 보스 저항 안내 옵션을 없앴고, 예전에 꺼 둔 설정도 무시하고 보스 이름 옆에 챙길 저항 아이콘을 보여 줍니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-21T09:47:18.856Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDhRZHh1QnZvd3hobGFndWJqNitDWTNrWm5QVnZVNTg0dmlDeDh3RUQwaVc3SUk1UE9IcXVYSElXZlFYTUE4SWxBZXAzMWtZMjVzSExZclhwdWY4QWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTUxNDE3CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4xNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjE1Cjd4YldUelMra0lHaFl4cjY0TWdaL29Cbmc5Z3YyZXBYOXlVNTVqN25YZVRMOEJTMUNQOFJwUTdjalB1YlNrZnZqQk5OQldXNUhINWhXdHFKUDlqNkJRPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.15/poe2way-desktop_0.3.15_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDE0NzM1Nk8vV214K1pyeWNHWkRBcmc2UE5nSDl1SGpVRksvN004WkNwMjVpYVVJSXFUcXhJZDI5c1RwL0pkZkYzR1JtbGx4bnJWUHlHSnk2c0xKaVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTc1ODgwCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4xNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjE2Clh4Q3o4dWo2d3I1cS9vd1hqY2dVNENpT3lFNXhoK2pkcStMRFNBVlYwdlpzS0hqQ3pyRnJxR2tmODBwMzR5SWlLMUpjUHYxMXMyMzVaK1RvRUhGYkJBPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.16/poe2way-desktop_0.3.16_x64-setup.exe"
     }
   }
 }
