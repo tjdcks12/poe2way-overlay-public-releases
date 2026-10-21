@@ -1,11 +1,11 @@
 {
-  "version": "0.3.19",
-  "notes": "# poe2way desktop 0.3.19\n\n가이드 지도(Alt+G)와 웹 지도에서 지역 이름이 아이콘에 가려지지 않고 항상 맨 앞에 보입니다. 어드민판 지도 수집 창의 배경 투명도가 게임 화면에 실제로 반영됩니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-21T14:21:42.051Z",
+  "version": "0.3.20",
+  "notes": "# poe2way desktop 0.3.20\n\n가이드 지도의 레이아웃 버튼(본문 먼저·지도 먼저·나란히)으로 지형 지도의 위치를 정하고, 앱 안 액트 가이드도 예전 레이아웃 이미지 대신 지형 지도를 보여 줍니다. 크래프팅 작업대가 웹과 같은 공용 작업대(크래프팅 코어 0.23.2)로 바뀌어 게임식 아이템 툴팁과 단계 기준 목표 설정을 지원합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-21T18:42:50.995Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDUrczhobldISzkxTUtLTnQ3Q2FubkNKZWRRSXkrRjR5cmNLSFN2VEhjbXFWc2VRays4NjVUYmtxbk9hVWNCM1IwbWE3M1pYdGlFZnBNU2JSdnZjdVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTkxNzYwCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4xOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjE5CkxWQk5qWVkxSTVNNE1CaDQ2ejZ4YU8wbDdiU1Z0YXNVKzZXOE84Wks2T0o4L1V4WTd1aksyVDFkSFR3UWNaQXhsanNBcGtxaDlmalNTVndtNDFyUUJBPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.19/poe2way-desktop_0.3.19_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDRzSzJQK3lYTVJubVpSWDl0QnRkdG9TR2Q2NFdoV0xWbWo0RlhnckNCalpiRW13a0Y4eU0zQy9YRG05K2Mrd2hYR2lFZkYwV3lOWFhCc3YyRGZBWXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjA3OTkyCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4yMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjIwCjRVQXZqQjVKV3dyZzNIeXFFZmNUczFPakpxT1Y1a1RpU0Z6dmdJckNESmZMU05sZWc2VUcvNnhYSDFhZWNMcFNLV0xwekpJQnRZZzhkQmV4WmlHVUR3PT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.20/poe2way-desktop_0.3.20_x64-setup.exe"
     }
   }
 }
