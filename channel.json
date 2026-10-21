@@ -1,11 +1,11 @@
 {
-  "version": "0.3.17",
-  "notes": "# poe2way desktop 0.3.17\n\n가이드 지도의 보스방·랜드마크·체크포인트·거점·NPC 이름을 선택한 언어의 공식 게임 이름으로 표시합니다. 연결 지역과 지도 제목도 10개 언어 공식 지역 이름을 사용합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-21T11:09:26.690Z",
+  "version": "0.3.18",
+  "notes": "# poe2way desktop 0.3.18\n\n가이드 지도(Alt+G)를 좌우·상하로 뒤집고 회전 슬라이더로 원하는 각도만큼 기울일 수 있습니다. 정한 방향은 저장되어 모든 지역 지도에 적용됩니다. 지역 선택 목록의 디자인을 앱 색에 맞게 다듬었습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-21T12:01:32.636Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbC92NnhJK0d2ZVUxdkYwMlFVT1I4NmRBOGRhOXJEdFJ3Z2FmVnJQTDdtMmZVN2t1SXNyckwreTNhSXEzVHZIaFo4aEt6VVd0Wnd6QzdTQWI3d29HMlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTgwODI2CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4xN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjE3CjJpS1hObGxDM0h0OU12MWIyYitHQVpFOE9mcGhjWEZrWHFFdVBXbmVSL1g2Uk9Kc1hRMTdOWkhBdjBKYzREejdPQ0JHZEk1YWhWd0tVNHBsMEFHQkF3PT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.17/poe2way-desktop_0.3.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDEreXVlYmRyS0lhUUIvT0gxRThBMmt3ejE4OEhjcER1VXdyWHhtbzJTeUtmRHpyZVJzSTRUZXF0eklWcS85MGJxRkZ0Zk1xaFlHRlFybHIvUm5jNFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTgzOTA5CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4xOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjE4Ck96SG13OGlLOUxRSlB2WU1JbENMTnZ0MWp2c3dxY3prbzB3SXZPYTR0N0QvTmJObTM1N3pzTjZoWEtLeDFpcHVLbW52dWxpZE40RDBpdDR2UXVOT0F3PT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.18/poe2way-desktop_0.3.18_x64-setup.exe"
     }
   }
 }
