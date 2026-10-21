@@ -1,11 +1,11 @@
 {
-  "version": "0.3.20",
-  "notes": "# poe2way desktop 0.3.20\n\n가이드 지도의 레이아웃 버튼(본문 먼저·지도 먼저·나란히)으로 지형 지도의 위치를 정하고, 앱 안 액트 가이드도 예전 레이아웃 이미지 대신 지형 지도를 보여 줍니다. 크래프팅 작업대가 웹과 같은 공용 작업대(크래프팅 코어 0.23.2)로 바뀌어 게임식 아이템 툴팁과 단계 기준 목표 설정을 지원합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-21T18:42:50.995Z",
+  "version": "0.3.21",
+  "notes": "# poe2way desktop 0.3.21\n\n아틀라스 맵 안에서는 가이드 창(Alt+G)이 맵 정보로 바뀌어, 그 맵이 놓일 수 있는 바이옴·보스·맵 구조와 그 바이옴에 작용하는 아틀라스 패시브(게임 공식 문구)를 지형도와 함께 보여 줍니다. AI Agent도 지금 있는 맵과 맵별·바이옴별 아틀라스 패시브 시너지를 조회해 답합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-21T19:18:23.386Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDRzSzJQK3lYTVJubVpSWDl0QnRkdG9TR2Q2NFdoV0xWbWo0RlhnckNCalpiRW13a0Y4eU0zQy9YRG05K2Mrd2hYR2lFZkYwV3lOWFhCc3YyRGZBWXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjA3OTkyCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4yMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjIwCjRVQXZqQjVKV3dyZzNIeXFFZmNUczFPakpxT1Y1a1RpU0Z6dmdJckNESmZMU05sZWc2VUcvNnhYSDFhZWNMcFNLV0xwekpJQnRZZzhkQmV4WmlHVUR3PT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.20/poe2way-desktop_0.3.20_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHlvZENEMEQyeU5KK242M0htdEltYVBXbytZY09DbkdlbXEvQVBMbTlaRWlHcUE4SkNGSkdYNnVWcmJneXhVNC84UXNOdXFjMG1KdVltcVpVYXFoK3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjEwMTMyCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4yMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjIxCnUvWmVHNGVnMktKR0tHVFBtVXo0eERxNEg3cWh1WHAvOEhLcVJhT2pzMC9jbUhSYkxrdDY5ZU5ENm9FdHE3ek11aHBYWHY3U2o0MlZsSDdtRVFsOEFRPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.21/poe2way-desktop_0.3.21_x64-setup.exe"
     }
   }
 }
