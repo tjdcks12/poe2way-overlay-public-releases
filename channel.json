@@ -1,11 +1,11 @@
 {
-  "version": "0.3.21",
-  "notes": "# poe2way desktop 0.3.21\n\n아틀라스 맵 안에서는 가이드 창(Alt+G)이 맵 정보로 바뀌어, 그 맵이 놓일 수 있는 바이옴·보스·맵 구조와 그 바이옴에 작용하는 아틀라스 패시브(게임 공식 문구)를 지형도와 함께 보여 줍니다. AI Agent도 지금 있는 맵과 맵별·바이옴별 아틀라스 패시브 시너지를 조회해 답합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-21T19:18:23.386Z",
+  "version": "0.3.22",
+  "notes": "# poe2way desktop 0.3.22\n\nAI Agent가 캐릭터·전직 패시브 트리 노드를 이름이나 효과로 찾아 설명하고, 웹 패시브 트리에서 그 노드를 바로 열어 줍니다. 웹의 아틀라스 패시브 트리 페이지도 안내합니다. 맵 정보(Alt+G)에서 정확하지 않던 「보스까지 거리」를 뺐습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-21T20:26:25.159Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHlvZENEMEQyeU5KK242M0htdEltYVBXbytZY09DbkdlbXEvQVBMbTlaRWlHcUE4SkNGSkdYNnVWcmJneXhVNC84UXNOdXFjMG1KdVltcVpVYXFoK3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjEwMTMyCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4yMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjIxCnUvWmVHNGVnMktKR0tHVFBtVXo0eERxNEg3cWh1WHAvOEhLcVJhT2pzMC9jbUhSYkxrdDY5ZU5ENm9FdHE3ek11aHBYWHY3U2o0MlZsSDdtRVFsOEFRPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.21/poe2way-desktop_0.3.21_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDlwakVWN3ovbWdrNDR1YkVETGNwYnBSVTNyREVRMWJaYXMyeFQzQ3ZxMTBMM1FLVitrOGVaZlhHcEN2dlBQQVBhNUlUbFY5S25uQlh4QTVjcmU5ZGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjE0MjI0CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4yMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjIyCnZIamFFcUZLVkgzN0ZiQi9PZjc1Z25YbzR3WUF2bUJkZVJUcWVKekZOdzdwMWJSZXMrTnIrQkZLMVJVS0hJNzRTbHJZK3ZwNHpFOG5PdFJTUkhpRUNRPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.22/poe2way-desktop_0.3.22_x64-setup.exe"
     }
   }
 }
