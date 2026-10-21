@@ -1,11 +1,11 @@
 {
-  "version": "0.3.14",
-  "notes": "# poe2way desktop 0.3.14\n\n설정 > 기본 > 테마에서 데스크톱 색상 테마 9종(기본값, 라이트, PoE2 브론즈, OLED 블랙, 고대비, 드루이드의 숲, 서리, 심연, 잿불)을 고를 수 있습니다. 게임 위 오버레이를 포함한 모든 창에 바로 적용됩니다. 크래프팅 작업대는 실패 뒤 복구 계획(조건부 수리·유료 재시작)까지 계산하고, 아이템 준비 비용을 제작 단계 사이에 유지하며, 패널마다 따로 스크롤됩니다. AI Agent는 크래프팅 목표를 작업대와 같은 제작 방법 비교로 답하고, 장비 슬롯별 검색 정규식을 웹 /db와 같은 방식으로 만듭니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-20T20:40:44.671Z",
+  "version": "0.3.15",
+  "notes": "# poe2way desktop 0.3.15\n\nAI Agent 응답 속도를 개선했습니다. 대화는 따로 고르지 않으면 보통(medium) 추론 수준으로 시작하고, poe2way 도구만 연결해 다른 전역 MCP 서버와 메모리를 불러오지 않습니다. 자주 묻는 질문은 필요한 도구로 바로 답하고, 매 턴 반복하던 상황·기능 조회와 큰 조회 응답을 줄였습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-21T02:59:47.982Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDlWSVJXK0J4VmVWVnJnUGJ0U0g2aVlLSTViM2FFVzNlSCsyMERubWpxcDVLSGkramcrVTg5SkdLN09nWGVEenRYakJEeHQ2YkhCSVdKV3pBRytONnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTI3OTk2CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4xNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjE0CmNKRWhLbFcwSWFtUEV6UjV6YzhmbnNnc2hrNkhELzcvV296MWh2SzRRU1c3eFo4WWJmcTlBSmd3ZDFDK3orTGZHUndDbWhtUWlUN2RrVXRQVjJFTUJBPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.14/poe2way-desktop_0.3.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDhRZHh1QnZvd3hobGFndWJqNitDWTNrWm5QVnZVNTg0dmlDeDh3RUQwaVc3SUk1UE9IcXVYSElXZlFYTUE4SWxBZXAzMWtZMjVzSExZclhwdWY4QWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTUxNDE3CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4xNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjE1Cjd4YldUelMra0lHaFl4cjY0TWdaL29Cbmc5Z3YyZXBYOXlVNTVqN25YZVRMOEJTMUNQOFJwUTdjalB1YlNrZnZqQk5OQldXNUhINWhXdHFKUDlqNkJRPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.15/poe2way-desktop_0.3.15_x64-setup.exe"
     }
   }
 }
