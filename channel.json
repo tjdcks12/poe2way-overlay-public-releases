@@ -1,11 +1,11 @@
 {
-  "version": "0.3.16",
-  "notes": "# poe2way desktop 0.3.16\n\n보스 저항 안내가 항상 표시됩니다. 설정의 보스 저항 안내 옵션을 없앴고, 예전에 꺼 둔 설정도 무시하고 보스 이름 옆에 챙길 저항 아이콘을 보여 줍니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-21T09:47:18.856Z",
+  "version": "0.3.17",
+  "notes": "# poe2way desktop 0.3.17\n\n가이드 지도의 보스방·랜드마크·체크포인트·거점·NPC 이름을 선택한 언어의 공식 게임 이름으로 표시합니다. 연결 지역과 지도 제목도 10개 언어 공식 지역 이름을 사용합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-21T11:09:26.690Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDE0NzM1Nk8vV214K1pyeWNHWkRBcmc2UE5nSDl1SGpVRksvN004WkNwMjVpYVVJSXFUcXhJZDI5c1RwL0pkZkYzR1JtbGx4bnJWUHlHSnk2c0xKaVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTc1ODgwCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4xNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjE2Clh4Q3o4dWo2d3I1cS9vd1hqY2dVNENpT3lFNXhoK2pkcStMRFNBVlYwdlpzS0hqQ3pyRnJxR2tmODBwMzR5SWlLMUpjUHYxMXMyMzVaK1RvRUhGYkJBPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.16/poe2way-desktop_0.3.16_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbC92NnhJK0d2ZVUxdkYwMlFVT1I4NmRBOGRhOXJEdFJ3Z2FmVnJQTDdtMmZVN2t1SXNyckwreTNhSXEzVHZIaFo4aEt6VVd0Wnd6QzdTQWI3d29HMlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTgwODI2CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4xN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjE3CjJpS1hObGxDM0h0OU12MWIyYitHQVpFOE9mcGhjWEZrWHFFdVBXbmVSL1g2Uk9Kc1hRMTdOWkhBdjBKYzREejdPQ0JHZEk1YWhWd0tVNHBsMEFHQkF3PT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.17/poe2way-desktop_0.3.17_x64-setup.exe"
     }
   }
 }
