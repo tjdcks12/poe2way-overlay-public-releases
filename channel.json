@@ -1,11 +1,11 @@
 {
-  "version": "0.3.26",
-  "notes": "# poe2way desktop 0.3.26\n\nAlt+G 창에 맵 레이아웃이 항상 보이고, 지역 선택 드롭다운을 없앴으며, 확대·축소 버튼을 지도 아래로 옮겨 지도를 가리지 않습니다. 보스 이름 옆에 물리를 포함한 피해 유형이 모두 보입니다. 챕터 완료가 「완료하고 다음」 한 번으로 끝나고, 상단 바 버튼에 프리즘 효과를 넣었으며, Agent가 PoB 캐릭터 불러오기를 안내합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-22T07:03:00.593Z",
+  "version": "0.3.27",
+  "notes": "# poe2way desktop 0.3.27\n\n보관함 가격 평가에서 분석 자료가 없는 희귀 아이템도 Alt+E 기본 조건으로 비교 매물을 찾아 가격을 매깁니다. 다시 확인해도 바뀔 것이 없을 때는 「남은 가격 확인」 버튼이 뜨지 않고, 합계 옆 시각은 마지막으로 가격을 확인한 시각을 보여 줍니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-22T07:17:03.027Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDVqVDhKWldoWDI3aFFIUmkzNmpzQkhYcHY3Z2hiS3RDU01pOFpRb2w3dnVlUTk0VDNmNDRPSVI0WUdkcXhGWTFyd25lUVl5dmwvYkhUL0tKOGpoVEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjUyNDAxCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4yNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjI2CnhOSVNidm8zV28rZk1HVFltSzlPZytpaVUyK1dOOFNOeDFlK3h0aEFYNXl0RTkwWVpyRnl1TzJGdEIrVnlZUVZvM3dhOGRxZ0tLbHMxNkRURVVVM0RnPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.26/poe2way-desktop_0.3.26_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHovZmFVZ1UvbTdMQnc1WFBJUS8yK0VkbkdUTGZ3Y2thdDdWWVJIdjlmYmg1ellpWGlibUdBSno1VjlmejdRTEg2NFJBL3JXRzBROG10VmZTV0c0RXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjUzMTk2CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4yN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjI3Cm94QWxxb3M0dDl1b1FreE1qcjdaRFdMM3F0WENoUlQ4MXdqRlFHY0xNZVo5QzBwTm40WTRBblBZcFArV0tteTNuRDNTVTQ0NkNmNGEvWmo3UERwRUR3PT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.27/poe2way-desktop_0.3.27_x64-setup.exe"
     }
   }
 }
