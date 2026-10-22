@@ -1,11 +1,11 @@
 {
-  "version": "0.3.25",
-  "notes": "# poe2way desktop 0.3.25\n\n창이 넓으면 본문 양옆에 세로 광고가 보이고, 상단 바에 「구독」 버튼이 늘 있습니다. 창 크기를 바꾼 뒤 아래 광고 줄이 사라지던 문제를 고쳤고, 광고 오류는 앱 로그에 남깁니다. 상단 바 타이머 옆에 액트 진행 게이지가 보이며, 홈의 단축키 카드를 오른쪽 칸으로 옮겼습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-22T04:31:46.970Z",
+  "version": "0.3.26",
+  "notes": "# poe2way desktop 0.3.26\n\nAlt+G 창에 맵 레이아웃이 항상 보이고, 지역 선택 드롭다운을 없앴으며, 확대·축소 버튼을 지도 아래로 옮겨 지도를 가리지 않습니다. 보스 이름 옆에 물리를 포함한 피해 유형이 모두 보입니다. 챕터 완료가 「완료하고 다음」 한 번으로 끝나고, 상단 바 버튼에 프리즘 효과를 넣었으며, Agent가 PoB 캐릭터 불러오기를 안내합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-22T07:03:00.593Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHowb1ZqWlJIUThzUlFic0tWQi9HZDlWQTBVOFdhaExidm02OW9wR0xDMjY3SFJEZHRkQlh3TSs0VDdVZ3NGb0RST2hLVytqMkRDK1doZVk5Tk5kYWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjQzMzIwCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4yNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjI1CjR1Z1dyb2ZHdzJWMXNkUEZrYzArUGMxdFJyYXd0ekppYkNLRnczZ1VGQUtMb3JPM3NCWURtUm5uaXRWU2FxdGtJd1VRZHUvVVR0UG9GMmdVMFBtNERBPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.25/poe2way-desktop_0.3.25_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDVqVDhKWldoWDI3aFFIUmkzNmpzQkhYcHY3Z2hiS3RDU01pOFpRb2w3dnVlUTk0VDNmNDRPSVI0WUdkcXhGWTFyd25lUVl5dmwvYkhUL0tKOGpoVEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjUyNDAxCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4yNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjI2CnhOSVNidm8zV28rZk1HVFltSzlPZytpaVUyK1dOOFNOeDFlK3h0aEFYNXl0RTkwWVpyRnl1TzJGdEIrVnlZUVZvM3dhOGRxZ0tLbHMxNkRURVVVM0RnPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.26/poe2way-desktop_0.3.26_x64-setup.exe"
     }
   }
 }
