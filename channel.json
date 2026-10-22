@@ -1,11 +1,11 @@
 {
-  "version": "0.3.24",
-  "notes": "# poe2way desktop 0.3.24\n\n앱 아래 광고 영역에 실제 광고가 보입니다(앱 화면에 가려지던 문제 수정). 설정의 구독 칸에 사이트에서 받은 라이선스 키를 넣으면 이 PC에서 광고가 사라지고, 광고 위 「광고 제거」 버튼으로 구독 페이지를 엽니다. 액트 가이드 타이머를 켜면 상단 바에 시간이 보이고, 누르면 지금 챕터로 갑니다. 크래프팅 작업대의 「원본 아이템」 펼침 버튼을 없앴습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-21T22:43:08.884Z",
+  "version": "0.3.25",
+  "notes": "# poe2way desktop 0.3.25\n\n창이 넓으면 본문 양옆에 세로 광고가 보이고, 상단 바에 「구독」 버튼이 늘 있습니다. 창 크기를 바꾼 뒤 아래 광고 줄이 사라지던 문제를 고쳤고, 광고 오류는 앱 로그에 남깁니다. 상단 바 타이머 옆에 액트 진행 게이지가 보이며, 홈의 단축키 카드를 오른쪽 칸으로 옮겼습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-22T04:31:46.970Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDBCWEptQmZLQWY4WU9kNC8rYXNlWnhDQlZMU2w5eFZ6YWRKRUFReXFueEkva2xUZ0Q2R2swMzVSMjYzUGdmUnFVdE5RZk14bjU2bkwzY2NyS0NZT1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjIyMzU1CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4yNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjI0CkJKTUp4REtVQUd1K3Z4Wm5tWDlhWmRWVkFHNGtzQWN3enJoc1hTcGFXZTNYTmNZaFFjR0xRbTFhTUhmaW5uVUFSNGV5SGllMlNORUZYM0dBUDVoYUF3PT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.24/poe2way-desktop_0.3.24_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHowb1ZqWlJIUThzUlFic0tWQi9HZDlWQTBVOFdhaExidm02OW9wR0xDMjY3SFJEZHRkQlh3TSs0VDdVZ3NGb0RST2hLVytqMkRDK1doZVk5Tk5kYWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjQzMzIwCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4yNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjI1CjR1Z1dyb2ZHdzJWMXNkUEZrYzArUGMxdFJyYXd0ekppYkNLRnczZ1VGQUtMb3JPM3NCWURtUm5uaXRWU2FxdGtJd1VRZHUvVVR0UG9GMmdVMFBtNERBPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.25/poe2way-desktop_0.3.25_x64-setup.exe"
     }
   }
 }
