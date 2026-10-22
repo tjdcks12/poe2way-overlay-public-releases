@@ -1,11 +1,11 @@
 {
-  "version": "0.3.27",
-  "notes": "# poe2way desktop 0.3.27\n\n보관함 가격 평가에서 분석 자료가 없는 희귀 아이템도 Alt+E 기본 조건으로 비교 매물을 찾아 가격을 매깁니다. 다시 확인해도 바뀔 것이 없을 때는 「남은 가격 확인」 버튼이 뜨지 않고, 합계 옆 시각은 마지막으로 가격을 확인한 시각을 보여 줍니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-22T07:17:03.027Z",
+  "version": "0.3.28",
+  "notes": "# poe2way desktop 0.3.28\n\nAlt+G 창에 「맵 레이아웃 접기/펼치기」 버튼이 다시 생겼고, 상단 챕터 번호를 눌러 원하는 액트·챕터로 바로 이동할 수 있습니다. 크래프팅 작업대에서 에센스·룬·영혼 핵에 마우스를 올리면 추가되는 속성과 효과가 보이고, 재화함은 기본으로 지금 아이템에 사용할 수 있는 재화만 보여 줍니다. 창이 좁을 때 상단 바의 최소화·최대화·닫기 버튼이 가려지던 문제를 고쳤습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-22T14:14:35.715Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHovZmFVZ1UvbTdMQnc1WFBJUS8yK0VkbkdUTGZ3Y2thdDdWWVJIdjlmYmg1ellpWGlibUdBSno1VjlmejdRTEg2NFJBL3JXRzBROG10VmZTV0c0RXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjUzMTk2CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4yN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjI3Cm94QWxxb3M0dDl1b1FreE1qcjdaRFdMM3F0WENoUlQ4MXdqRlFHY0xNZVo5QzBwTm40WTRBblBZcFArV0tteTNuRDNTVTQ0NkNmNGEvWmo3UERwRUR3PT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.27/poe2way-desktop_0.3.27_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDRLZkk2aVVlR1grR1d0TGtxK2RqbFVUSWJjNkR5NzlZbWlZQ2ZiTmo0Nm5KOGtHWHVnbGM4U2Y5aStRWDYyeldndW52b1R4R21BTkFnNDY1bEU4TVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjc4MzM2CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4yOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjI4ClNiL1hUYUcvTzRQbmJaN2t6VUdacW1YUFR6Q1V1MXNRRWFCM09QUlBGVDI4aC96ZXV0R25rb2lWNnk1NUVPZTUzTmJoMk83MnFJQWdmTWo2RnBxM0FBPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.28/poe2way-desktop_0.3.28_x64-setup.exe"
     }
   }
 }
