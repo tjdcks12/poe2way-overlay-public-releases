@@ -1,11 +1,11 @@
 {
-  "version": "0.3.31",
-  "notes": "# poe2way desktop 0.3.31\n\n보관함 탭을 추가할 때 게임 탭 이름의 가격이 겹치지 않는 높은 숫자로 정해지고, 가격과 경로석 등급을 직접 바꿀 수도 있습니다. 보관함의 거래소 계정 이름은 설정의 계정 연결로만 들어가며, 계정을 연결하지 않았을 때 「탭 추가」를 누르면 계정 연결 화면으로 이동합니다. 보관함 화면의 설정 버튼은 없앴습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-22T18:05:57.912Z",
+  "version": "0.3.32",
+  "notes": "# poe2way desktop 0.3.32\n\n보관함 탭 등록 창에서 「다시 만들기」로 게임 탭 이름을 새로 정할 수 있고, 탭 제목 옆 게임 탭 이름을 바로 복사할 수 있습니다. 보관함 종류 목록에 종류별 썸네일이 보이며, 조회 중 진행 카드의 높이가 더 이상 바뀌지 않습니다. AI Agent는 각 CLI의 로고를 보여 주고, 상단 대화 탭의 이름을 바꿀 수 있습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-22T18:40:03.400Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDhWZXQ5TE1kUWlkNDAza3pJSjNEZlhpT2VTcDlKaGdjb0RtVThuVTdCL250RDFlNENIK1RHK3U4T1U0VXhMYVNrQm1EaDVKNjJWakt5MHdwVEFyT3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjkyMTczCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4zMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjMxCnNTYnIwcm82SDFuaDkwQzQ2bzZEYkthOWZ6TStkSmhWaFZtYUFxWXQrV0ZmRGFiNmtma0xMK3FhaUc2Z0lES211MUdtaFlJQU50Q3Z2QS83MFlRdUFBPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.31/poe2way-desktop_0.3.31_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDhkVnZrQkMySlhkbTdlZkxVb05ueUtOVXhFMjJUeTlNL1FtSGwvditLUndsbXFWeTk1VWwxV1ZlWHE3a2wrV1Fid0RxK2FJcVZ1c05hdi9yRzdXaEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjk0MjA1CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4zMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjMyCi8yM0hPTm1LUTNQdGFSaWtueGV5aFZPYktYcVRKNU05UmJtMUFvMXhaK3E2T1JiK2EwT3Y1WTBTOHp1TlhvU2xVMjc4SDRIRlhOZ1lUOWhRVVdsUkNnPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.32/poe2way-desktop_0.3.32_x64-setup.exe"
     }
   }
 }
