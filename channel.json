@@ -1,11 +1,11 @@
 {
-  "version": "0.3.30",
-  "notes": "# poe2way desktop 0.3.30\n\nAlt+G 창의 「이전 챕터 · 완료하고 다음 · 다음 챕터」 버튼을 액트·챕터 메뉴 옆으로 옮겨 스크롤 없이 늘 누를 수 있습니다. Alt+G 창의 「액트 전체 가이드」 버튼은 없앴습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-22T16:38:51.886Z",
+  "version": "0.3.31",
+  "notes": "# poe2way desktop 0.3.31\n\n보관함 탭을 추가할 때 게임 탭 이름의 가격이 겹치지 않는 높은 숫자로 정해지고, 가격과 경로석 등급을 직접 바꿀 수도 있습니다. 보관함의 거래소 계정 이름은 설정의 계정 연결로만 들어가며, 계정을 연결하지 않았을 때 「탭 추가」를 누르면 계정 연결 화면으로 이동합니다. 보관함 화면의 설정 버튼은 없앴습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-22T18:05:57.912Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbCtOVXc4VkdEQi9SUlJBYk94QW9yTm1WVEpwb0laUDdTK2Vhc2dYdStPdHNNQ1NITFVrNnAvZTlQVXBGUGpUZnpEdEdyYjVFTTJ2SzlKWE9qTjlseUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjg2OTg3CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4zMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjMwCkFraGRkTEZwL3duRlArVjdjRld0bWl1cittWEk4K21GTEhRcEFKZ3Nsa0Y3MGVGNWNveGlHalVjMVFaOGJQOFFpTU5PcFVQRnIzVmpNcnBnMFkySkFnPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.30/poe2way-desktop_0.3.30_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDhWZXQ5TE1kUWlkNDAza3pJSjNEZlhpT2VTcDlKaGdjb0RtVThuVTdCL250RDFlNENIK1RHK3U4T1U0VXhMYVNrQm1EaDVKNjJWakt5MHdwVEFyT3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjkyMTczCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4zMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjMxCnNTYnIwcm82SDFuaDkwQzQ2bzZEYkthOWZ6TStkSmhWaFZtYUFxWXQrV0ZmRGFiNmtma0xMK3FhaUc2Z0lES211MUdtaFlJQU50Q3Z2QS83MFlRdUFBPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.31/poe2way-desktop_0.3.31_x64-setup.exe"
     }
   }
 }
