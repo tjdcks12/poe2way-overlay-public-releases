@@ -1,11 +1,11 @@
 {
-  "version": "0.3.36",
-  "notes": "# poe2way desktop 0.3.36\n\n기존 기능과 설정, Ctrl+휠 확대·축소 및 단축키 저장 개선을 유지하는 유지보수 업데이트입니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-24T14:35:50.264Z",
+  "version": "0.3.37",
+  "notes": "# poe2way desktop 0.3.37\n\n기존 기능과 설정, Ctrl+휠 확대·축소 및 단축키 저장 개선을 유지하는 유지보수 업데이트입니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-24T15:40:32.888Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDhHKzE2eGMzcmdtTXRwSzAwdFBtdEYwWmoyMS9IQ1NaK1FTNGpPSVdzRXlWMWdCT2Jmb0RiM3NjSTVmV003WUhjMlYwMVBEd2NSMTlsd1hXMlBwcGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODUyMzg1CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4zNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjM2CmFLK2xiNlhndW5ORFNsNE05dVVhNkxoLzA4V3drWW1RZUhoSzMvRVVBcXlhQTlCNzRiV1dBdWNJS3gvZm5UbHpFVnQwdmJiN2FtaWxkMzVROHF4RkRBPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.36/poe2way-desktop_0.3.36_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDhBbnhxclFTYUdLbUNjT2RFTmJXVmIrRWRKTTNRWXljaERxMEViK0JUelVTaDVxbFpIZUlaam1peXFPMDcrYnd2aXRQOEtETVRueWtpK2t5U0J3ZXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODU2MjU0CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4zN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjM3Ck1sZktmMEx4djJiSHNSbUxEWHgyOG9HMjcyWVMzYlA3K2hlM1FUSWloelkyaldhcFY2TW1LMWFpeXdxNGVDdzRSWHZMMjZzTEpPd1RiK0V1UHpCMER3PT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.37/poe2way-desktop_0.3.37_x64-setup.exe"
     }
   }
 }
