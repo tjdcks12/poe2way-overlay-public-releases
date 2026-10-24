@@ -1,11 +1,11 @@
 {
-  "version": "0.3.34",
-  "notes": "# poe2way desktop 0.3.34\n\n메인 앱에서 Ctrl+마우스 휠로 글·이미지·콘텐츠를 50~200% 범위에서 확대하거나 축소할 수 있습니다. Ctrl+0으로 100%로 복원하며 마지막 배율은 다음 실행에도 유지됩니다. 일반 휠 스크롤과 게임 위 오버레이의 모니터별 배율은 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-24T11:45:37.546Z",
+  "version": "0.3.35",
+  "notes": "# poe2way desktop 0.3.35\n\n설정의 단축키 화면에서 음성 녹음·새 음성 대화 단축키를 변경하면 unknown_app_control_use_app_inspect 오류가 나며 저장되지 않던 문제를 수정했습니다. 중복 키·금지 조합 검사는 유지하며, Ctrl+휠 확대·축소와 기존 설정을 그대로 사용할 수 있습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-24T13:06:28.874Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDVTeFlEM2JISU16ZFkyK1FSWUFYU09LQno3cm92YUljNlBVekF0dTEvczF5QlNoNjZMaUVmVllOaHlKVlFRbi9nMFhpUTVJTzBWYW1ydWh6NWxqdWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODQyMTQzCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4zNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjM0CkRBSmwxOUVmeTZVQytuTS9LVHRPQ1JpU0VVN2FmbkEwZVM2TTRTN1NGa3hBNXVZZUptTGRkMFpLM3VRaUFyYk5hZVJ5UWh2Z1hPZlF2aUZybWNjY0R3PT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.34/poe2way-desktop_0.3.34_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDBHS1hZeHFBUUlxR0JmUDdmaGRiSzVhN0NUL0ZQQVNkYW1uOW5pSk8wa1h3YWhEYjdWZlgzM1ZLVzhQTkE0MVZOUzhLcVMzbHV1aktja1JYTFRlZGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODQ2OTQ1CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4zNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjM1Cm1hQVZoSVI4bFprNVZQTjVFNDYzd1hsZ245WnBwdE5CSmNIanVmNXkrNDE3WFhmTHM3UnVWUWFxTXAxVWNuWmtLWEtvTkhtVE1CMm4yejlVOUVmUkN3PT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.35/poe2way-desktop_0.3.35_x64-setup.exe"
     }
   }
 }
