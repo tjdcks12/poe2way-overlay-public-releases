@@ -1,11 +1,11 @@
 {
-  "version": "0.3.35",
-  "notes": "# poe2way desktop 0.3.35\n\n설정의 단축키 화면에서 음성 녹음·새 음성 대화 단축키를 변경하면 unknown_app_control_use_app_inspect 오류가 나며 저장되지 않던 문제를 수정했습니다. 중복 키·금지 조합 검사는 유지하며, Ctrl+휠 확대·축소와 기존 설정을 그대로 사용할 수 있습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-24T13:06:28.874Z",
+  "version": "0.3.36",
+  "notes": "# poe2way desktop 0.3.36\n\n기존 기능과 설정, Ctrl+휠 확대·축소 및 단축키 저장 개선을 유지하는 유지보수 업데이트입니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-24T14:35:50.264Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDBHS1hZeHFBUUlxR0JmUDdmaGRiSzVhN0NUL0ZQQVNkYW1uOW5pSk8wa1h3YWhEYjdWZlgzM1ZLVzhQTkE0MVZOUzhLcVMzbHV1aktja1JYTFRlZGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODQ2OTQ1CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4zNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjM1Cm1hQVZoSVI4bFprNVZQTjVFNDYzd1hsZ245WnBwdE5CSmNIanVmNXkrNDE3WFhmTHM3UnVWUWFxTXAxVWNuWmtLWEtvTkhtVE1CMm4yejlVOUVmUkN3PT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.35/poe2way-desktop_0.3.35_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDhHKzE2eGMzcmdtTXRwSzAwdFBtdEYwWmoyMS9IQ1NaK1FTNGpPSVdzRXlWMWdCT2Jmb0RiM3NjSTVmV003WUhjMlYwMVBEd2NSMTlsd1hXMlBwcGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODUyMzg1CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4zNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjM2CmFLK2xiNlhndW5ORFNsNE05dVVhNkxoLzA4V3drWW1RZUhoSzMvRVVBcXlhQTlCNzRiV1dBdWNJS3gvZm5UbHpFVnQwdmJiN2FtaWxkMzVROHF4RkRBPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.36/poe2way-desktop_0.3.36_x64-setup.exe"
     }
   }
 }
