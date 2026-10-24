@@ -1,11 +1,11 @@
 {
-  "version": "0.3.33",
-  "notes": "# poe2way desktop 0.3.33\n\n보관함 재화 목록에서 일반·상위·완벽한 재화(진화·확장·제왕·엑잘티드·카오스 오브와 에센스)를 크래프팅처럼 썸네일의 I·II·III 표시로 구분합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-22T18:52:31.924Z",
+  "version": "0.3.34",
+  "notes": "# poe2way desktop 0.3.34\n\n메인 앱에서 Ctrl+마우스 휠로 글·이미지·콘텐츠를 50~200% 범위에서 확대하거나 축소할 수 있습니다. Ctrl+0으로 100%로 복원하며 마지막 배율은 다음 실행에도 유지됩니다. 일반 휠 스크롤과 게임 위 오버레이의 모니터별 배율은 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-24T11:45:37.546Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDdJeEI1cUVzOG40OEhmOWtLVUdJZDlNSFNDWVR5aFFNOVp2L2tITVRVNytnYTQ4R29XWWpQMFk5K0xFVlhLWE9wYUVtWFhNQWlTOFhTWURlUHRrRGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjk0OTUwCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4zM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjMzCm5mMEtIeDA2a2ZoL3l5WHZqV2ZKc0JpcHdTUUF5U0pqdVgxMFhDc05qOUpweTlzelRhTHJVYkRpNDQrZ216VFZPVUpKa2JOZGF3aUxMRy8xeHlkTURBPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.33/poe2way-desktop_0.3.33_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDVTeFlEM2JISU16ZFkyK1FSWUFYU09LQno3cm92YUljNlBVekF0dTEvczF5QlNoNjZMaUVmVllOaHlKVlFRbi9nMFhpUTVJTzBWYW1ydWh6NWxqdWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODQyMTQzCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy4zNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjM0CkRBSmwxOUVmeTZVQytuTS9LVHRPQ1JpU0VVN2FmbkEwZVM2TTRTN1NGa3hBNXVZZUptTGRkMFpLM3VRaUFyYk5hZVJ5UWh2Z1hPZlF2aUZybWNjY0R3PT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.34/poe2way-desktop_0.3.34_x64-setup.exe"
     }
   }
 }
