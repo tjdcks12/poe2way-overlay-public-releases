@@ -1,11 +1,11 @@
 {
-  "version": "0.3.42",
-  "notes": "# poe2way desktop 0.3.42\n\nAI Agent가 빌드 가이드를 다룹니다. 공유 가이드를 찾아 앱 창에 열거나 바로 따라가고, 젬 사용 레벨·보조 젬 능력치 요구·상점 검색 등 게임 데이터와 함께 가이드 질문에 답합니다. Mobalytics 빌드 가이드를 요청한 언어로 옮겨 앱의 새 초안으로 열 수 있습니다(저장·게시는 직접). 새 대화에는 10개 언어 예시 요청을 보여 줍니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-26T19:24:15.476Z",
+  "version": "0.3.43",
+  "notes": "# poe2way desktop 0.3.43\n\n설정 > 계정 연결에서 Google 계정으로 POE2WAY에 로그인할 수 있습니다. 기본 브라우저에서 인증을 마치면 앱으로 돌아오고, 로그인 세션은 이 PC에 암호화해 저장합니다. 앱의 웹 빌드 가이드 창에서도 로그인된 계정을 사용하며, 로그인 화면과 안내를 10개 언어로 제공합니다. 0.3.42의 AI Agent 빌드 가이드 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-26T20:03:44.216Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDEwdGFyWCtyUkY3STNxYnhWNUZqZlBtM0crNFBScTBaZU80aUE5d0V1Wi94a2FVTVZrY2lrR1dpVm8zM0ZHWnZacXAvN2pJNEp3NmdQNmQ5YnlDemdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQyNDgwCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy40Ml94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjQyClAwT0pSRmw3aytKWTFkK3Q5YzR6cEg0akRkU0xKNHdkcUNValhkTkdYZEI3N1JJbi9XMU5hb29aVkg1VG1udUZpNk92dmoyTUxFV3JnNmhYVVdoV0RnPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.42/poe2way-desktop_0.3.42_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDBjbXdncnROeEFnS29jSUE3U1RZK0swOG1EbFMrTitvTlQrMnFzOXFxcUtlaEppd28zTHdvUjY1WHllQzNPa0NTNmVKc3FBMVc3a2tzeW8wSmdpK0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ0ODMxCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy40M194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjQzCm5NTDZlTE1tK0NvMGNoUy9jaS9takVLRUZyRG5jS2tTa2Z2blkrc3BCajF0UVQyVmZxcnNOaWVXb0N5cEZWQzNvTzF4UHlBKzRNa2gxQUNVb2VobkNnPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.43/poe2way-desktop_0.3.43_x64-setup.exe"
     }
   }
 }
