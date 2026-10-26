@@ -1,11 +1,11 @@
 {
-  "version": "0.3.41",
-  "notes": "# poe2way desktop 0.3.41\n\n빌드 가이드를 앱에서 쓸 수 있습니다. 「빌드 가이드」 탭의 「공유 가이드」·「가이드 작성」으로 웹과 같은 편집기·읽기 화면을 앱 창에서 열고, 게시한 가이드는 「앱에서 따라가기」로 바로 따라갑니다. Alt+B 인게임 빌드 가이드 창이 캐릭터 레벨에 맞춰 장비·젬·패시브 할 일과 다가오는 목표, 상점 검색 정규식을 보여 주며 크기를 조절할 수 있습니다. 게임 내 빌드 플래너에 가이드를 설치할 수도 있습니다. 진행 감지는 게임 로그 파일만 읽습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-26T19:02:24.575Z",
+  "version": "0.3.42",
+  "notes": "# poe2way desktop 0.3.42\n\nAI Agent가 빌드 가이드를 다룹니다. 공유 가이드를 찾아 앱 창에 열거나 바로 따라가고, 젬 사용 레벨·보조 젬 능력치 요구·상점 검색 등 게임 데이터와 함께 가이드 질문에 답합니다. Mobalytics 빌드 가이드를 요청한 언어로 옮겨 앱의 새 초안으로 열 수 있습니다(저장·게시는 직접). 새 대화에는 10개 언어 예시 요청을 보여 줍니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-26T19:24:15.476Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDhPdXpTSUI2anlMaGJ5RGV4Ukp1RGVQd2RwTktoRTUvMWlFc0RHTVIrdzgwbEQrdEpUWnZDQzVNclYxNDkyUXVMRWVSZ2FIVy81ditZZmxoaHJ6U1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQxMDk1CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy40MV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjQxClhnM1owSG5hbmwvZFY5RXJVOGhESXNMK3dRRXdxbkNUeVdNU21hbU1QbXJkWHR3WE5CR2kza256VzVJRCsyRktCdlJlVW4wZXRyQUpoNkRQWkFaNkNnPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.41/poe2way-desktop_0.3.41_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDEwdGFyWCtyUkY3STNxYnhWNUZqZlBtM0crNFBScTBaZU80aUE5d0V1Wi94a2FVTVZrY2lrR1dpVm8zM0ZHWnZacXAvN2pJNEp3NmdQNmQ5YnlDemdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQyNDgwCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy40Ml94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjQyClAwT0pSRmw3aytKWTFkK3Q5YzR6cEg0akRkU0xKNHdkcUNValhkTkdYZEI3N1JJbi9XMU5hb29aVkg1VG1udUZpNk92dmoyTUxFV3JnNmhYVVdoV0RnPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.42/poe2way-desktop_0.3.42_x64-setup.exe"
     }
   }
 }
