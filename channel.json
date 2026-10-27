@@ -1,11 +1,11 @@
 {
-  "version": "0.3.46",
-  "notes": "# poe2way desktop 0.3.46\n\n빌드 가이드 탭이 앱 테마(라이트·브론즈·서리 등)를 따릅니다. 강조 버튼에 마우스를 올리면 글씨가 사라지던 문제를 고쳤고, 게시가 막히면 빠진 항목(제목·작성자·직업·변형 이름과 시작 레벨·젬 레벨·목표)이나 저장 실패 이유를 바로 보여 줍니다. 가져온 가이드의 젬·장비 아이콘이 편집 화면에서도 보이고, 글 속 링크는 Ctrl+클릭이나 「링크 열기」로 브라우저에서 엽니다. 스크롤하면 나타나는 상단 바도 탭 위에 고정됩니다. 0.3.45의 빌드 가이드·AI Agent 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-27T09:24:30.861Z",
+  "version": "0.3.47",
+  "notes": "# poe2way desktop 0.3.47\n\n빌드 가이드 탭이 창 너비를 넓게 쓰고, 「이전」 버튼·마우스 뒤로 버튼·Alt+←로 이전 화면으로 돌아갑니다. 따라가기 패널을 「인게임 오버레이」·「게임 빌드 플래너」 두 줄로 정리했고, 오버레이와 미리보기에서 직접 체크한 항목을 「체크 초기화」로 되돌릴 수 있습니다. 목차에는 작성된 항목만 보이고, 레벨이 없는 젬은 「장착 가능」으로 표시합니다. 고정된 상단 바 때문에 화면 아래쪽이 검게 보일 수 있던 문제를 고쳤습니다. 0.3.46의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-27T10:38:50.384Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDBHSDRPYndpWFpKYXBzN25xcU9PWmRxSzFoTVBGckVxYVFzWnZqTnFTeFh2WFE3SU53dTdDSmg4TmNpSmJaVnhrME1PYnRGaXFjaVcrWjlSS0VONkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDkyODc5CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy40Nl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjQ2CmtCY1dxVytJU1RSdExBSUh3VFJyUG9PY2NFOXgxUUNMU3Q4bldpUENTTGVNbStYY2wyZ3NlRDlYYmd1eDcxOEVncUlKd0Z0RUd2Q2ZZMDJYYjdXOURBPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.46/poe2way-desktop_0.3.46_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDZ2bHkzQmMrVE9GejZMbzhuUUl4WXlZVnBLQmg3UE1QT0FzZUZPRm0ydmNrQSs4VTZGK2FCNFJKSExjaGUyZHhtekRoWVNMTyttNnowTytWNHdrTXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDk3MzM1CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy40N194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjQ3CmRqNS9vQXJDQ0c1Wjljd3laSjJQdVYzWThNTG90WXZDS1BKaGNWNVVUZmhnTG16bUF6Y2hpUWxvbGVRRGpxRWV2NHpERmFSMXI4OXdIa1lPU2M5TUNnPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.47/poe2way-desktop_0.3.47_x64-setup.exe"
     }
   }
 }
