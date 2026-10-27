@@ -1,11 +1,11 @@
 {
-  "version": "0.3.50",
-  "notes": "# poe2way desktop 0.3.50\n\n인게임 빌드 가이드 창에서 이 기기의 초안을 골라 바로 따라갈 수 있습니다. 젬 레벨이 비어 있어도 게시되고, 오버레이는 그 젬을 장착하면 충족으로 봅니다. 저장·게시 중에는 진행 상태를 알려 주며, 바뀐 변형만 다시 계산해 저장이 빨라졌습니다. 0.3.49의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-27T13:24:39.985Z",
+  "version": "0.3.51",
+  "notes": "# poe2way desktop 0.3.51\n\n빌드 가이드 본문에서 @로 게임 데이터를 찾을 때 한글을 입력하는 중에도 목록이 바로 나오고, 다시 입력한 검색어는 기다리지 않고 표시됩니다. 0.3.50의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-27T14:05:33.387Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDZjcU5FTkpJQVdhSUg2ZHl1dU1jdzd6d0R6c2dVZnphanJhU0tGb1VzMlY5cFd4cmk4Ync1NFdDY0Evem5YRTRJMUFWcDhnZGJFOEJhU1doYTdOR2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA3Mjk1CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy41MF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjUwCmsyWjVQd2hMSVpmZVYzU2xobjdHb2Fmdm1xWjlVUW4zV3NJTjNBTTMyeksvZXBlK2NNWGJnVjRWa0oxV2x3MytPZE0rWXNqemkvTy9HLzhDOTBIcUJ3PT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.50/poe2way-desktop_0.3.50_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDZmQVdGWk1zamJVQWlXU2Y5dElkb2xPdnFsU0xvNWVzTE54QjhsREFlWklTeCtHSnMyQnZwNmtjakIxSkVDN1g3MkN3QW1pdlVwcm5hdVo1dVk0NGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA5NzUzCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy41MV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjUxCnBKdFFreDFMRnlESWZVZ3lwZVJ2c2FPcmw1RFVBclJ6WEVBQzVvOE9YWWR1VHhGQ09hdEtZL3pxMTVDM2hYeHNrN1R4eml4cXFRL3ZnTjhocURUaERBPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.51/poe2way-desktop_0.3.51_x64-setup.exe"
     }
   }
 }
