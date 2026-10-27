@@ -1,11 +1,11 @@
 {
-  "version": "0.3.58",
-  "notes": "# poe2way desktop 0.3.58\n\n빌드 가이드를 저장할 때마다 다른 곳에서 먼저 저장되었다는 창이 잘못 뜨던 문제를 고쳤습니다. 장비 셋업이 더 빨리 열리고, 한 번 연 부위는 다시 열 때 바로 보입니다. 게임에서 복사한 아이템을 붙여 넣는 창을 제목·안내·입력칸·버튼 순서로 정리했습니다. 오버레이 미리보기는 X 버튼이나 Esc로만 닫히고, 가져오기 기록 저장 버튼은 없앴습니다. 0.3.57의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-27T18:15:17.169Z",
+  "version": "0.3.59",
+  "notes": "# poe2way desktop 0.3.59\n\n빌드 가이드에 즐겨찾기와 댓글이 생겼습니다. 즐겨찾기한 빌드는 가이드 목록 맨 위에 모이고 가이드 카드에 즐겨찾기 수가 보입니다. 댓글에는 답글·젬과 아이템 언급·수정·삭제·추천을 쓸 수 있고, 답글은 한 단계로 이어집니다. 앱의 Google 계정으로 로그인하며, 로그인이 필요하면 안내 창이 뜨고 로그인 뒤 하던 동작이 이어집니다. 0.3.58의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-27T22:31:27.865Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDMxQXVwampnQ0VvbWUvU2FxdE5kYndMRmR2UHdwVS9ReUdWQlZIOXp6Rzk2RDdZWDQ5QlBjSGxYcHZrR3Q3VW5UUFo4dmpxaVVidG5kRWZBbEh0UVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTI0NzQ3CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy41OF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjU4CmViNXQwWlM5L1ZRdXNHVXhuZHBaMzJUU1U1SSt3TTRqSGVMV3dWU0UyWnY2WGMyRzBmSjY1azZJZUJnZjUvSTJ1b09NYlp2anFXdDZValZnYTcwTkNRPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.58/poe2way-desktop_0.3.58_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDk0Wmg1R3U0K285Umh0eDArOFVyS1ovSElsV0l3V2pNaVA5RGt6OVN4VXNHL0pua3ZnMFF1WGpacitXNjU2dFd4TXc2NllKVFFtaVpzS2ZocXhuM2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTQwMDU3CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy41OV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjU5CnMrVXRhbUk3RzkwUTFYTFo4clkzSE0rVExER0dPNlNCdUZRMWdnYkpEVlJYVlpUZ0c5N0ZRTjR0T09Tb09XbnNjS0p1S0hQV3FXZmJJOFNOVkZkckJ3PT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.59/poe2way-desktop_0.3.59_x64-setup.exe"
     }
   }
 }
