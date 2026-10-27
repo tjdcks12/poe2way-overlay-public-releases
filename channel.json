@@ -1,11 +1,11 @@
 {
-  "version": "0.3.53",
-  "notes": "# poe2way desktop 0.3.53\n\n인게임 빌드 가이드 창의 레벨 입력이 머리글의 설정(톱니바퀴)으로 옮겨졌고, 설정에서 창에 보일 항목을 고를 수 있습니다. 앱에서 따라가는 초안에도 상점 검색 정규식이 표시됩니다. 0.3.52의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-27T15:09:56.606Z",
+  "version": "0.3.54",
+  "notes": "# poe2way desktop 0.3.54\n\n보관함 탭과 인게임 보관함 창에서 화폐·징조를 시간당 얼마나 모았는지 볼 수 있습니다. 빌드 가이드의 머리글 버튼에 이름이 붙었고 집중 모드에서는 화면 전체가 같은 폭으로 좁아집니다. 게임 빌드 플래너 파일은 「게임에서 쓰기」 한 곳에서 받습니다. 저장 충돌 창은 무슨 일이 있었는지와 각 버튼의 결과를 설명합니다. Mobalytics에서 가져온 가이드는 공개 게시할 수 없고 초안으로만 저장됩니다. 0.3.53의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-27T15:41:10.358Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHgzNW4zekR6Uko1eFhLTWFqUWF2dXV6MndjQk5ZMXJTZURxTkFMZllMMkRHVVpUNmEvbUZlbVU0M2FEa3JLM2VwOUxCd05zaG9BUHdtbERyUXZwT1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTEzNjM4CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy41M194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjUzCm1xZWtqVTRtRFFXQ1lrZlBTZVpNR2k4WVlMZTM3c25yRTh6WHdsM25xcDl4aDM3aHFjdWpJVjhuelg4cFNFWHZtNzU2b2hzQk44MkQ0dFpkTXNLY0FBPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.53/poe2way-desktop_0.3.53_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDhIY002VTdOOS9aWUNqdlpKYW5URjVRbVgzaDl3R3JtYkU1R2ZnbEU0WVpPV3BYaEFFOS9jcEdQb05XbmRTSUF5YUJVWEg3V2x2RjY1NHhBVnlaaEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTE1NDg2CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy41NF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjU0CkJUTHg5ZmgzUlRycm5MeFZXQTl6Q0R6eldoTkRYb2swUjRDbHVWZ015NEVsZURmYTVPOTdDWUgvWmdzQXh0YmtIWE1QUUhpU0ZDL2d1TGw2TGJkTkFnPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.54/poe2way-desktop_0.3.54_x64-setup.exe"
     }
   }
 }
