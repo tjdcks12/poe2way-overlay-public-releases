@@ -1,11 +1,11 @@
 {
-  "version": "0.3.57",
-  "notes": "# poe2way desktop 0.3.57\n\n인게임 빌드 가이드 창이 더 간결해졌습니다. 이번 세션에 찍은 패시브와 설명 구역을 없앴고, 퀘스트 보상은 완료 개수가 보이는 머리글로 펼칩니다. 빌드 가이드 화면의 오버레이 미리보기는 크기를 조절할 수 있고 미리보기가 창 너비를 따라갑니다. 0.3.56의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-27T17:32:04.393Z",
+  "version": "0.3.58",
+  "notes": "# poe2way desktop 0.3.58\n\n빌드 가이드를 저장할 때마다 다른 곳에서 먼저 저장되었다는 창이 잘못 뜨던 문제를 고쳤습니다. 장비 셋업이 더 빨리 열리고, 한 번 연 부위는 다시 열 때 바로 보입니다. 게임에서 복사한 아이템을 붙여 넣는 창을 제목·안내·입력칸·버튼 순서로 정리했습니다. 오버레이 미리보기는 X 버튼이나 Esc로만 닫히고, 가져오기 기록 저장 버튼은 없앴습니다. 0.3.57의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-27T18:15:17.169Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDNJb3ViZEIwRHA0RVpaTmlNZzUvNzE4ZVR5SzRYTHM4M1VodE1BT3JRM0lHYlFyeXR5M253clU0aFUwZURlckMzdlZ5OGZFb25sQnFiNWFFY3lKdFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTIyMTQwCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy41N194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjU3CmdRQXk3b1ZVcXhBZ0c1S1lHbkdqUm54WmE0dVBQU2FpMlRMVkUwdS8wdkVia2JSSDVScTBoZHhNTFE4VWZaZTBxb0w2M1dLR1RhenZYVG1QMXZGNkRRPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.57/poe2way-desktop_0.3.57_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDMxQXVwampnQ0VvbWUvU2FxdE5kYndMRmR2UHdwVS9ReUdWQlZIOXp6Rzk2RDdZWDQ5QlBjSGxYcHZrR3Q3VW5UUFo4dmpxaVVidG5kRWZBbEh0UVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTI0NzQ3CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy41OF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjU4CmViNXQwWlM5L1ZRdXNHVXhuZHBaMzJUU1U1SSt3TTRqSGVMV3dWU0UyWnY2WGMyRzBmSjY1azZJZUJnZjUvSTJ1b09NYlp2anFXdDZValZnYTcwTkNRPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.58/poe2way-desktop_0.3.58_x64-setup.exe"
     }
   }
 }
