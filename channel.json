@@ -1,11 +1,11 @@
 {
-  "version": "0.3.45",
-  "notes": "# poe2way desktop 0.3.45\n\n빌드 가이드 탭이 앱 안 화면으로 바뀌었습니다. 웹과 같은 목록·읽기·편집 화면과 패시브·아틀라스 트리를 앱에서 바로 쓰고, 집중 모드·「이 가이드 따라가기」 버튼·막별 퀘스트 보상 탭을 더했습니다. AI Agent가 내 PoB 빌드에 맞는 가이드를 추천하고, 따라가는 가이드와 비교해 빠진 젬·장비·패시브를 알려 주며, 탭에서 해당 부분을 짚어 줍니다. 내 초안 수정안도 제안하며 「적용」을 눌러야 바뀌고 되돌릴 수 있습니다. 큰 Mobalytics 가이드도 새 초안으로 가져옵니다. 0.3.44의 계정·프로필 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-27T02:43:44.520Z",
+  "version": "0.3.46",
+  "notes": "# poe2way desktop 0.3.46\n\n빌드 가이드 탭이 앱 테마(라이트·브론즈·서리 등)를 따릅니다. 강조 버튼에 마우스를 올리면 글씨가 사라지던 문제를 고쳤고, 게시가 막히면 빠진 항목(제목·작성자·직업·변형 이름과 시작 레벨·젬 레벨·목표)이나 저장 실패 이유를 바로 보여 줍니다. 가져온 가이드의 젬·장비 아이콘이 편집 화면에서도 보이고, 글 속 링크는 Ctrl+클릭이나 「링크 열기」로 브라우저에서 엽니다. 스크롤하면 나타나는 상단 바도 탭 위에 고정됩니다. 0.3.45의 빌드 가이드·AI Agent 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-27T09:24:30.861Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDF3UFlaR3ZDZFlXTldibjZ5c2ZEaDEyYXNwamJrMGlKNFVpeE5lK3dVWS9YcDZkUnF6RHp4SkdSZ1B6akM4UjhidHdwdmJkZlplZTF5Myt0VGpMbHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDY4ODIyCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy40NV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjQ1CkhPVWNFWjAzdW9LQ3RCRHZyQ1RQblY2WWswZmdZYlA0ODdSK295UXpBMENsZFJmWURJeFJldFE0OG5RTDVMeFVNTVFMZnMveHcyVzFRTEpxK2ZSZENBPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.45/poe2way-desktop_0.3.45_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDBHSDRPYndpWFpKYXBzN25xcU9PWmRxSzFoTVBGckVxYVFzWnZqTnFTeFh2WFE3SU53dTdDSmg4TmNpSmJaVnhrME1PYnRGaXFjaVcrWjlSS0VONkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDkyODc5CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy40Nl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjQ2CmtCY1dxVytJU1RSdExBSUh3VFJyUG9PY2NFOXgxUUNMU3Q4bldpUENTTGVNbStYY2wyZ3NlRDlYYmd1eDcxOEVncUlKd0Z0RUd2Q2ZZMDJYYjdXOURBPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.46/poe2way-desktop_0.3.46_x64-setup.exe"
     }
   }
 }
