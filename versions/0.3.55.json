@@ -1,0 +1,18 @@
+{
+  "version": "0.3.55",
+  "edition": "public",
+  "overlayCommit": "9c4f0c882247eaa7878b1e39e31410a312f35794",
+  "webCommit": "00241f4d0aced4dd7cf63510f9085018f659ce57",
+  "sourceTreeVerified": true,
+  "createdAt": "2026-10-27T16:09:19.253Z",
+  "assets": [
+    {
+      "edition": "public",
+      "file": "poe2way-desktop_0.3.55_x64-setup.exe",
+      "bytes": 30790055,
+      "sha256": "ddc5543ef0204be9a456b8ee5ea1f301935d56ffc3750637d29c89e9eb12b83c",
+      "signature": "poe2way-desktop_0.3.55_x64-setup.exe.sig"
+    }
+  ],
+  "updaterSignatureVerified": true
+}
