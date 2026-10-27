@@ -1,11 +1,11 @@
 {
-  "version": "0.3.51",
-  "notes": "# poe2way desktop 0.3.51\n\n빌드 가이드 본문에서 @로 게임 데이터를 찾을 때 한글을 입력하는 중에도 목록이 바로 나오고, 다시 입력한 검색어는 기다리지 않고 표시됩니다. 0.3.50의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-27T14:05:33.387Z",
+  "version": "0.3.52",
+  "notes": "# poe2way desktop 0.3.52\n\n인게임 빌드 가이드 창의 크기 조절이 액트 가이드와 같아졌고 배경 불투명도를 조절할 수 있습니다. 따라가는 중에도 「이전」으로 가이드 목록을 볼 수 있고, 창에서 레벨을 직접 입력할 수 있습니다. 게임 빌드 플래너 파일은 가이드 제목으로 저장됩니다. 게임 패널 자동 숨김이 빌드 가이드와 패시브 트리(P)까지 적용되고, Alt+H로 오버레이를 한 번에 숨기고 다시 표시할 수 있습니다. 0.3.51의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-27T14:37:14.301Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDZmQVdGWk1zamJVQWlXU2Y5dElkb2xPdnFsU0xvNWVzTE54QjhsREFlWklTeCtHSnMyQnZwNmtjakIxSkVDN1g3MkN3QW1pdlVwcm5hdVo1dVk0NGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA5NzUzCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy41MV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjUxCnBKdFFreDFMRnlESWZVZ3lwZVJ2c2FPcmw1RFVBclJ6WEVBQzVvOE9YWWR1VHhGQ09hdEtZL3pxMTVDM2hYeHNrN1R4eml4cXFRL3ZnTjhocURUaERBPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.51/poe2way-desktop_0.3.51_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDZIejV2UjB4MllqbmlzUmJFK1VGYWlTRllkK2ljZ0tQZnFrUUdacnZGVXliRDZUOG9JTURXbFZrR0w4UTIzRlhDQ2dIaTFRUXRDY3Z4Ui8vYVRtVmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTExNjcwCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy41Ml94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjUyCnAvMVlMR1dyY2dOMTNlTmJGZnN1aW9teXVXTDhxemMvUEREVGJvMit5b2dLaWFrN2VrcEU1bnBZNTNqS2dhMmNaNTk4QnJQWjUyaGtqdDI5ZzVoSkNRPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.52/poe2way-desktop_0.3.52_x64-setup.exe"
     }
   }
 }
