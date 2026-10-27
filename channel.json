@@ -1,11 +1,11 @@
 {
-  "version": "0.3.47",
-  "notes": "# poe2way desktop 0.3.47\n\n빌드 가이드 탭이 창 너비를 넓게 쓰고, 「이전」 버튼·마우스 뒤로 버튼·Alt+←로 이전 화면으로 돌아갑니다. 따라가기 패널을 「인게임 오버레이」·「게임 빌드 플래너」 두 줄로 정리했고, 오버레이와 미리보기에서 직접 체크한 항목을 「체크 초기화」로 되돌릴 수 있습니다. 목차에는 작성된 항목만 보이고, 레벨이 없는 젬은 「장착 가능」으로 표시합니다. 고정된 상단 바 때문에 화면 아래쪽이 검게 보일 수 있던 문제를 고쳤습니다. 0.3.46의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-27T10:38:50.384Z",
+  "version": "0.3.48",
+  "notes": "# poe2way desktop 0.3.48\n\n계정 연결의 로그인 버튼에 Google 로고를 넣고 불필요한 설명 문구를 정리했습니다. 0.3.47의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-27T10:58:17.518Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDZ2bHkzQmMrVE9GejZMbzhuUUl4WXlZVnBLQmg3UE1QT0FzZUZPRm0ydmNrQSs4VTZGK2FCNFJKSExjaGUyZHhtekRoWVNMTyttNnowTytWNHdrTXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDk3MzM1CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy40N194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjQ3CmRqNS9vQXJDQ0c1Wjljd3laSjJQdVYzWThNTG90WXZDS1BKaGNWNVVUZmhnTG16bUF6Y2hpUWxvbGVRRGpxRWV2NHpERmFSMXI4OXdIa1lPU2M5TUNnPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.47/poe2way-desktop_0.3.47_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDA3ak40WWVUWDJMZy9CeDJuTGVKYldXbUJHWlFHQUpOSW92Z2VUSzBCRWpnTzVwYUx4Qmx3T2dMeW5ZaFg0QzRvMHFDU205TUh4NnpEcXdTV0dCNmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDk4NTEzCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy40OF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjQ4ClMwVk9UWFIwb0JxLzEvRXRNbFhFRmVrbDlEQ2pjODh6SnFzYzV5Qlloczl6NDFzY203NG8wUmM5YTBvZjI2dnBnZmxNZ3RGZmRwNTZ0cVdGNVZ0WUF3PT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.48/poe2way-desktop_0.3.48_x64-setup.exe"
     }
   }
 }
