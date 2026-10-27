@@ -1,11 +1,11 @@
 {
-  "version": "0.3.56",
-  "notes": "# poe2way desktop 0.3.56\n\n인게임 빌드 가이드 창에 지금 변형의 스킬 젬과 보조 젬이 한눈에 나오고, 퀘스트 보상은 한 줄씩 간결해졌습니다. 빌드 가이드 화면은 읽기·편집을 오른쪽 위에 두고 오버레이 미리보기를 창으로 열며, 다운로드에서 가이드 파일과 모든 변형의 게임 빌드 플래너를 받습니다. 미리보기에서 필수 아이템·젬을 오버레이에서 빼거나 다시 넣을 수 있습니다. 0.3.55의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-27T16:53:22.745Z",
+  "version": "0.3.57",
+  "notes": "# poe2way desktop 0.3.57\n\n인게임 빌드 가이드 창이 더 간결해졌습니다. 이번 세션에 찍은 패시브와 설명 구역을 없앴고, 퀘스트 보상은 완료 개수가 보이는 머리글로 펼칩니다. 빌드 가이드 화면의 오버레이 미리보기는 크기를 조절할 수 있고 미리보기가 창 너비를 따라갑니다. 0.3.56의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-27T17:32:04.393Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDlSem10UWdMdkdxa0YyTWl4OEhhQzJvVnpQY2phbWozN3lQbzU4OUZJaS9vaXVveDBWRmIrMTNVZ2d4UGk3aExXL3Z5WEVJRm9LLzJXdG54aE9vaVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTE5ODIxCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy41Nl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjU2CkQySmpjSzY0TmMrdjNlVUtra1FYeUlzQzhnREFueDFNMGlORWtVNTF4ZDd0WmVNUGc0cGllYW9nM3VBbW9odzR5UmFpTVRSSnd0c29NU1llcWdQRUFnPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.56/poe2way-desktop_0.3.56_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDNJb3ViZEIwRHA0RVpaTmlNZzUvNzE4ZVR5SzRYTHM4M1VodE1BT3JRM0lHYlFyeXR5M253clU0aFUwZURlckMzdlZ5OGZFb25sQnFiNWFFY3lKdFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTIyMTQwCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy41N194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjU3CmdRQXk3b1ZVcXhBZ0c1S1lHbkdqUm54WmE0dVBQU2FpMlRMVkUwdS8wdkVia2JSSDVScTBoZHhNTFE4VWZaZTBxb0w2M1dLR1RhenZYVG1QMXZGNkRRPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.57/poe2way-desktop_0.3.57_x64-setup.exe"
     }
   }
 }
