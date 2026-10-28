@@ -1,11 +1,11 @@
 {
-  "version": "0.3.63",
-  "notes": "# poe2way desktop 0.3.63\n\nCodex·Claude Code·Cursor 같은 AI 앱이 poe2way 연결을 열어 둔 상태에서도 설치·업데이트·제거가 실패하지 않습니다. 설치 프로그램이 그 연결을 먼저 닫습니다. AI가 큰 빌드 가이드 초안도 변형과 항목 종류별로 나눠 읽을 수 있습니다. 0.3.62의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-28T09:20:56.897Z",
+  "version": "0.3.64",
+  "notes": "# poe2way desktop 0.3.64\n\n앱이 쓰는 메모리가 줄었습니다. 추적기·빌드 가이드·가이드·음성 창은 처음 열 때 만들어집니다. 크래프팅에서 징조에 자물쇠를 걸면 사용 후에도 계속 적용되고, 목표 옵션 추가 창이 넓은 검색 창으로 바뀌었습니다. 0.3.63의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-28T12:03:35.806Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDNxOURkWFhIM2JFbEZ5ZHNVM1Baek9hbnZNaWRWSk84Vi9KaDUxT2JvT0M2cXI2eWdnZWx6SUNNWmhlem9TeDdWY2oyQStMRjZCM0kyYlUwOExDNlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTc5MDI2CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy42M194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjYzCndYV1pXd0p2dGdOSWJRaEFLYlJLcVRkWmNYb0NnU2xRZ1ExTnUrc09QanF1Z3dMM1FqbUVTQld5NGZldnBIZlF1YmQrTHhUcXdhSzJnWVU3ZGhVUkNRPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.63/poe2way-desktop_0.3.63_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbCtLSVBINGdZMEs1Y2J0bEh0ZExCQ1JsbkluQk04YTREV2tYYkpNOUJ6MUw4UkJsZmpPTmR4dG1uMHBhMXh1Z0xSQjQ0eTFZRUtoeWNoVVpacmRqUmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTg4ODMwCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy42NF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjY0Ck9UNFpBQWxjK2c5eW16TnNpcXlNaW4waS80TDF5a2JlN3hPQ29Kb2c5MnMzVUdnMmg4RHJQc25HWmdCV1FaT2g0cm9RNy9TNWF6QXZURHJVMkphUkFRPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.64/poe2way-desktop_0.3.64_x64-setup.exe"
     }
   }
 }
