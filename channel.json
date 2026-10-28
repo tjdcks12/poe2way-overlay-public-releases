@@ -1,11 +1,11 @@
 {
-  "version": "0.3.60",
-  "notes": "# poe2way desktop 0.3.60\n\n설정 > AI 앱 연결에서 Claude Code, Codex, Claude Desktop, Cursor를 연결해 poe2way의 시세·게임 자료·빌드 계산·창고 도구를 쓸 수 있습니다. 버튼 한 번으로 연결하고, Cursor는 설치 링크로 연결합니다. 조회 도구는 항상 허용되고, 앱을 조작하는 도구는 따로 허용할 수 있습니다. 0.3.59의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-28T02:05:18.658Z",
+  "version": "0.3.61",
+  "notes": "# poe2way desktop 0.3.61\n\n설정 > AI 앱 연결을 앱 시작 직후 열면 '상태를 읽지 못했습니다'가 잠깐 뜨던 문제를 고쳤습니다. 0.3.60의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-28T02:23:00.614Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHgzcnJzZG9QanBLKys2N0pReXVlV2g3Z1hwZjgwbllsK1lCV3VNSVJPSHR2czFZYlFhZHNmSnNHa0tUQlZYRFgzY056V1pyci9uZTNURHI1cmlDbFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTUyOTIwCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy42MF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjYwCkZORm9TcEh0RUt0YytxZUxPVHloQkNiVVM0SmRYUWNHaVdhZEJuTDhyQWs2SmxMMnRMRHJUdGo1VThXMlIrV1EwMXZ3TXlEZDJQZ1VlZEEwOXJZNEFnPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.60/poe2way-desktop_0.3.60_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDlBOElSbWw0cURoNldhbHZtZlVHTC8wQ1BsZEFQTit6dnZIUzEwajZ6UjQyc3UwZUt4SThLSlNVNjEvUW5hRkk5MTF0RmNqWXpDN1JteklHKzFueFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTUzOTg5CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy42MV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjYxCncxZVBkdjJVbzlVVTQzQWlXeTdnSjFBeFhkQ053UGxPUEhid1ZTbVY4NWcyN1c4ZnlOQkY0YXJIRW5SeGppcXU2U1dqRmlFTldWVTNiYlA0bDFITEJ3PT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.61/poe2way-desktop_0.3.61_x64-setup.exe"
     }
   }
 }
