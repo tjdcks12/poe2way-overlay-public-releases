@@ -1,11 +1,11 @@
 {
-  "version": "0.3.61",
-  "notes": "# poe2way desktop 0.3.61\n\n설정 > AI 앱 연결을 앱 시작 직후 열면 '상태를 읽지 못했습니다'가 잠깐 뜨던 문제를 고쳤습니다. 0.3.60의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-28T02:23:00.614Z",
+  "version": "0.3.62",
+  "notes": "# poe2way desktop 0.3.62\n\nAI(Codex·Claude 등)가 빌드 가이드를 처음부터 작성할 수 있습니다. 새 초안(빈 초안·PoB)을 만들고 태그가 들어간 본문, 빌드 변형, 젬·보조 젬, 장비와 추천 옵션, 패시브까지 한 번에 제안하며, 사용자가 적용하면 반영됩니다. 설정 > AI 앱 연결 화면을 정리했습니다. 0.3.61의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-28T05:55:31.548Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDlBOElSbWw0cURoNldhbHZtZlVHTC8wQ1BsZEFQTit6dnZIUzEwajZ6UjQyc3UwZUt4SThLSlNVNjEvUW5hRkk5MTF0RmNqWXpDN1JteklHKzFueFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTUzOTg5CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy42MV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjYxCncxZVBkdjJVbzlVVTQzQWlXeTdnSjFBeFhkQ053UGxPUEhid1ZTbVY4NWcyN1c4ZnlOQkY0YXJIRW5SeGppcXU2U1dqRmlFTldWVTNiYlA0bDFITEJ3PT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.61/poe2way-desktop_0.3.61_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDkzOFIwYnF4SU1WNWJ0dWZFcjc2eVVjZ1hXUVN5cWs3d24rOEd1Q0k0K242NG9oQXVlOWVHanE2SDhpK05oU21MS1E1K2NsbFNUSUFGTWltV1c4eGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTY2NzIwCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy42Ml94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjYyClUyWkpZR3hkUzlVVTk2cUhGNWhzU0NDaXIrN3hxR2ZkSmF2NzZYVE5VNGFhN2FobjdPUWhkNU5veG9lWEFPMVdiYS9SbVFZL2ptd2hDSEFycndDakRnPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.62/poe2way-desktop_0.3.62_x64-setup.exe"
     }
   }
 }
