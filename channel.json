@@ -1,11 +1,11 @@
 {
-  "version": "0.3.68",
-  "notes": "# poe2way desktop 0.3.68\n\n게임이 업데이트돼도 게임 패널 자동 숨김(아이템창·캐릭터 정보창·스킬창)이 앱 업데이트 없이 새 게임 버전을 바로 인식합니다. 게임 내부 구조가 크게 바뀐 업데이트에서는 안전하게 멈춥니다. 0.3.67의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-29T05:23:55.443Z",
+  "version": "0.3.69",
+  "notes": "# poe2way desktop 0.3.69\n\n빌드 가이드 창에서 레벨을 키보드로 입력·적용할 수 있고, 따라가기를 시작하면 현재 레벨의 단계가 바로 나옵니다. 상점 검색어는 ★ 중요 옵션으로만 만들고, 게임 빌드 플래너 파일에 스킬 젬이 처음 쓸 수 있는 레벨부터 들어갑니다. 빌드 가이드에서 젬 레벨을 없앴고, PoB 저장 파일 자동 반영이 기본으로 켜집니다. AI Agent가 스킬 젬 설명·태그를 10개 언어로 알려 줍니다. 0.3.68의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-29T07:52:10.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDNvR0EweTlzZ2pHRUJnMG1CV3dhamgxZTJCT2lRSGFIbU5GbzVqSE9qajdBVVhVdjYrYkUycW50TURVMk9BVGJucHk0VVFDR0M4YnZqQkt2R2xJUlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjUxMjc3CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy42OF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjY4Cm9NODlqZytPMXE0QmlVOWhLMi9IZ1Q5MlRGMVRYUmduMXlUS3ZZYlRQdzg0R2NQdjZXM0Q5aXhOaEZvWS9zNEk1K1pMN2lZYytsNTBsMXE2cVNJNUFBPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.68/poe2way-desktop_0.3.68_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHd2aHdrM2cyY3FUdS9DOGNMd0h5b0hwckFBLzVUQXhqblhtR1h3MXQxZG5uK0FQN0U5SHRoLytPUjJSUXp1VjBRUjJ3bk1hTjFLSThMSGxHWVpGaEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjYwMTM2CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy42OV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjY5CjEzcENUK0NtVUIzVis1OFpZdjZlVjNGOTJUNmdZRG1XWm85bGNVVTFFOWhnOHBndUltZnNCTnNZNDRZcUgxcTFvYXN4NGlHL2tuUUxTSlJpaWJkY0FBPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.69/poe2way-desktop_0.3.69_x64-setup.exe"
     }
   }
 }
