@@ -1,11 +1,11 @@
 {
-  "version": "0.3.71",
-  "notes": "# poe2way desktop 0.3.71\n\n빌드 가이드 창에서 앱에서 수정한 가이드와 최신 상점 검색 정규식이 창을 열 때 바로 반영되고, 새로고침 버튼을 추가했습니다. 0.3.70의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-29T08:46:34.506Z",
+  "version": "0.3.72",
+  "notes": "# poe2way desktop 0.3.72\n\n액트 가이드에서 챕터마다 내 메모를 남길 수 있습니다. 앱의 액트 가이드 탭과 게임 위 가이드 창(Alt+G)에서 쓰고, 이 기기에만 저장됩니다. 0.3.71의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-29T09:55:20.275Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDI4SExxT29KV2I2Wk9mU1JibUNJbTlBTEpGNzRPazNrQytDZm1vUHg1SDROMWF4UUYrVEtqWmtONUEwaUJZRjJGdW1tRGt6VHVQWU5uVDRRYjFqbndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjYzNDEzCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy43MV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjcxCmlnUGF5M2RIeVlnSE5jdnQ4QVltZ2RxbFk3VnFrWlRpKzM5M2JpZnhmV2JlTnI1bTVRZlQ2WjRlV2VrVC9lMjNuWnNPRVcxUlYxck1CeWlzeXZrR0J3PT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.71/poe2way-desktop_0.3.71_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDUyRmdONW1ma2VjQ0FuN0NaK1BUemxCYzV6ZmJWNzJ3ZDZtWlZrdFhoNjhxdVJVQ0dYWXRLcG1iaGpNV2Q5OEhISFNzNzBTYTV0NjZ5VXZKdCtaVFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjY3NTQ1CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy43Ml94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjcyClVyZjkrY29wZUJOeVoyN1d3c1ZnQlM5VzZxenVNYnhTVHBRRVIxUnFpZVQzYnB1UGxQNktLZmg2Tnp6aGsyT2VtOVF4M1p5eUhmV2w4ekYxeDQrSUR3PT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.72/poe2way-desktop_0.3.72_x64-setup.exe"
     }
   }
 }
