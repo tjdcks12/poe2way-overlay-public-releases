@@ -1,11 +1,11 @@
 {
-  "version": "0.3.70",
-  "notes": "# poe2way desktop 0.3.70\n\n게임 빌드 플래너 파일이 게임에서 '???'로 표시되던 문제를 고쳤습니다. 장비가 주는 스킬 중 젬이 없는 스킬(패리, 쇠뇌 공격 등)은 파일에 넣지 않습니다. 0.3.69의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-29T08:16:13.760Z",
+  "version": "0.3.71",
+  "notes": "# poe2way desktop 0.3.71\n\n빌드 가이드 창에서 앱에서 수정한 가이드와 최신 상점 검색 정규식이 창을 열 때 바로 반영되고, 새로고침 버튼을 추가했습니다. 0.3.70의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-29T08:46:34.506Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbC8yRmkrM3NBeEhPb2dtRXhEZHJtdERBZk96ZkJyQ1JSVFlkcURYTHlZUmxmZ0dIYVBPWFZvYVUwUlNNTUpPL05xZ1dndWxiWGFQSDZrUjNpa2V3dUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjYxNjAyCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy43MF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjcwCjRFYkx2a1oyS3RtbDNEKytPQmowN1A4L0daZUpEb1BpWk1UN3BKL3d2TEwzdDdoSWkrOWh3dCtsUG9qY3NMdmdwODlObGJZSTRFbFlTdWt6WEw5cEN3PT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.70/poe2way-desktop_0.3.70_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDI4SExxT29KV2I2Wk9mU1JibUNJbTlBTEpGNzRPazNrQytDZm1vUHg1SDROMWF4UUYrVEtqWmtONUEwaUJZRjJGdW1tRGt6VHVQWU5uVDRRYjFqbndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjYzNDEzCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy43MV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjcxCmlnUGF5M2RIeVlnSE5jdnQ4QVltZ2RxbFk3VnFrWlRpKzM5M2JpZnhmV2JlTnI1bTVRZlQ2WjRlV2VrVC9lMjNuWnNPRVcxUlYxck1CeWlzeXZrR0J3PT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.71/poe2way-desktop_0.3.71_x64-setup.exe"
     }
   }
 }
