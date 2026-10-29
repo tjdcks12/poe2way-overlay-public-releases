@@ -1,11 +1,11 @@
 {
-  "version": "0.3.66",
-  "notes": "# poe2way desktop 0.3.66\n\n0.3.65의 기능을 그대로 유지하는 유지보수 업데이트입니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-29T04:27:02.907Z",
+  "version": "0.3.67",
+  "notes": "# poe2way desktop 0.3.67\n\n10월 29일 카카오 게임 업데이트 이후 멈췄던 게임 패널 자동 숨김(아이템창·캐릭터 정보창·스킬창)이 새 게임 버전에서 다시 동작합니다. 0.3.66의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-29T04:48:51.047Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDYvSERJZ3RuN21SUVN6UDlNMGhDOE5adTJMcEM0emMySzdFbHZ4ZmxMN1ZiYitPbWdBZGtYRk03U1RUcUFtbUtUWnFkcmc3SnV4dXJPUWJqNXd0OUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjQ3ODQ2CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy42Nl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjY2Cld1SHpOME90YUYzWmF3VmpFUmF4dnJJaUJXN1lFWmcyTmhJMzhQL0IvaGc1MktWZ1VLVVZMeE1KcGpCOCtodUZBYlJtNkV2SDI3ZUQ3T3VEOEZ5bkJRPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.66/poe2way-desktop_0.3.66_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbCszUlZlUWdkakJPNjAveWFOTGJxTDdvK0lFMFplcnFBdy9ibFRoNTY4TUhLbFZQdDhxWlJUS21TVWZjek82bGN5M1lZZ1ZlblBGYmpONFlVbHZWY0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjQ5MTc4CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy42N194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjY3CkN1UkdtK1BmU1oxcDdrZkcvVkFCWCs2YW93SXdOMGd5TVMxdGFpNFhLeUZtMHVnd3NYKzhLR2Rzdm1abEVXdG1hM1FLVjZMQTRVbWczK2FaZDFBS0FRPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.67/poe2way-desktop_0.3.67_x64-setup.exe"
     }
   }
 }
