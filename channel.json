@@ -1,11 +1,11 @@
 {
-  "version": "0.3.74",
-  "notes": "# poe2way desktop 0.3.74\n\n빌드 가이드에서 다른 캐릭터가 레벨업하면 그 캐릭터를 따라갑니다. 주변에 아무도 없으면 자동으로 전환하고, 그렇지 않으면 게임 위 창에서 내 캐릭터인지 묻습니다. 미공개 신성 모드가 있는 아이템에 화폐를 쓰는 제작 시뮬레이션을 고쳤고, AI Agent의 장비 정규식을 웹사이트와 맞췄습니다. 0.3.73의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-30T08:04:18.789Z",
+  "version": "0.3.75",
+  "notes": "# poe2way desktop 0.3.75\n\n게임 빌드 플래너 파일에 쇠뇌 사격, 패리처럼 장비가 주는 스킬이 게임의 실제 젬으로 들어가고, 거기 연결된 보조 젬도 빠지지 않습니다. 0.3.74의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-30T15:06:05.914Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDRwZlJtVTY5ZHZvcEl4OXA1eGdTTDlrUXllUXFzTkNHUUVaMTdta3NGWWovd2E3Qm4rdkw2RjZrUEFRR1JKcHZFRGl0RDVKQzRpMXdxUjR0SjNsSFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzQ3MTE2CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy43NF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjc0CjV3UGR5M2ppVmRodFVKQXZyaEJueHRFc3lKaml0VWhoSElUMlVNb0dQSDN5YU9IUldrOXBDcXBaMnpCMGo4M2hRc040YkZwRjBWRzZFT1Y1VmpJWkJnPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.74/poe2way-desktop_0.3.74_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDREVjRXM3FCc01SR1orU0xGR3U0UUx4SWpHejFxcVJTcTRqL2ZOWGJ3SEJWTjduV0hZL1NWUEtUV3dZc3RWQ1E1cUhrTEFNalg5eDN5aXRmSThQTFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzcyNTc4CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy43NV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjc1CjhpUmVuNXJMSmU4M2NjenM4dHFwelVjRDJkUUsrRjBkN3BLQWQzZGtKVEZLZE1adnRzMlVaZWRHVExOUTVjV21GS1l1MnNGbU5iL3h1dEc3djBIQ0NnPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.75/poe2way-desktop_0.3.75_x64-setup.exe"
     }
   }
 }
