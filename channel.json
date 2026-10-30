@@ -1,11 +1,11 @@
 {
-  "version": "0.3.72",
-  "notes": "# poe2way desktop 0.3.72\n\n액트 가이드에서 챕터마다 내 메모를 남길 수 있습니다. 앱의 액트 가이드 탭과 게임 위 가이드 창(Alt+G)에서 쓰고, 이 기기에만 저장됩니다. 0.3.71의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-29T09:55:20.275Z",
+  "version": "0.3.73",
+  "notes": "# poe2way desktop 0.3.73\n\n빌드 가이드에서 레벨업한 뒤에 앱을 켜도 이번 게임 세션 로그에서 캐릭터와 레벨을 찾습니다. 상점 검색 정규식은 ★ 중요 옵션으로만 만들고, ★ 옵션이 없는 빌드 변형에는 표시되지 않습니다. 미공개 신성 모드가 있는 아이템의 빈 자리를 채우는 제작 시뮬레이션이 막히던 문제를 고쳤습니다. 0.3.72의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-30T06:16:10.933Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDUyRmdONW1ma2VjQ0FuN0NaK1BUemxCYzV6ZmJWNzJ3ZDZtWlZrdFhoNjhxdVJVQ0dYWXRLcG1iaGpNV2Q5OEhISFNzNzBTYTV0NjZ5VXZKdCtaVFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjY3NTQ1CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy43Ml94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjcyClVyZjkrY29wZUJOeVoyN1d3c1ZnQlM5VzZxenVNYnhTVHBRRVIxUnFpZVQzYnB1UGxQNktLZmg2Tnp6aGsyT2VtOVF4M1p5eUhmV2w4ekYxeDQrSUR3PT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.72/poe2way-desktop_0.3.72_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDMxcURCOXRqTWhUa2ljYVZaMVZncUdWcDFHbVJnYTJtM2lBNzhYSmVKQkh2Y3pPeitycHlsNnkvWlh5ZEdMWVhEemR1T1FHVHFSbHQwd3JvMFhJUGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzQwNzgxCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy43M194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjczCnRDOUhEY3l6SDJ0dEhoenEreWsrenhBTGtNckxqZlhLUjhBT0dFZXJBOUYvbC9LcDZRZ1crelhJQkFUc0RDbjVEVHFkRGw5dGYraXRJRy8vbzNWcUN3PT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.73/poe2way-desktop_0.3.73_x64-setup.exe"
     }
   }
 }
