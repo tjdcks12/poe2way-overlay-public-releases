@@ -1,11 +1,11 @@
 {
-  "version": "0.3.75",
-  "notes": "# poe2way desktop 0.3.75\n\n게임 빌드 플래너 파일에 쇠뇌 사격, 패리처럼 장비가 주는 스킬이 게임의 실제 젬으로 들어가고, 거기 연결된 보조 젬도 빠지지 않습니다. 0.3.74의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-30T15:06:05.914Z",
+  "version": "0.3.76",
+  "notes": "# poe2way desktop 0.3.76\n\n빌드 가이드 아이템의 접두·접미 목표를 개수 제한 없이 넣을 수 있습니다. 같은 옵션을 두 번 넣는 것만 막고, AI Agent도 같은 규칙을 따릅니다. 0.3.75의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-10-31T09:11:19.306Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDREVjRXM3FCc01SR1orU0xGR3U0UUx4SWpHejFxcVJTcTRqL2ZOWGJ3SEJWTjduV0hZL1NWUEtUV3dZc3RWQ1E1cUhrTEFNalg5eDN5aXRmSThQTFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzcyNTc4CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy43NV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjc1CjhpUmVuNXJMSmU4M2NjenM4dHFwelVjRDJkUUsrRjBkN3BLQWQzZGtKVEZLZE1adnRzMlVaZWRHVExOUTVjV21GS1l1MnNGbU5iL3h1dEc3djBIQ0NnPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.75/poe2way-desktop_0.3.75_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDcyaVRUZHIwaVgyYnlER0hTRHgyM3ZIRy90THhsK0o5bGIyZDVSUUNJbEVXTFk3RG5sbi8xOUMrSGZvOUg4YTFub0tFNHpEbWNGNFA5VXh3Q0NYR0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDM3NzA1CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy43Nl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjc2Cmd2aHpHVVVaM3YvWVN3djZTNXZWZnBVNDAxV0NiNE9hMlRNbVVXWW1VN2s3VWZjTzdWcEtEcG1ESG1XeVVVNHBMRVhkdklaZTljTmNpcWZVNnRFdERRPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.76/poe2way-desktop_0.3.76_x64-setup.exe"
     }
   }
 }
