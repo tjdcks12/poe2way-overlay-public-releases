@@ -1,11 +1,11 @@
 {
-  "version": "0.3.77",
-  "notes": "# poe2way desktop 0.3.77\n\n빌드 가이드 본문에서 아이템·스킬 칩의 글자가 주변 글자와 같은 줄에 맞춰집니다. 0.3.76의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-10-31T19:07:43.892Z",
+  "version": "0.3.78",
+  "notes": "# poe2way desktop 0.3.78\n\n액트 가이드에서 현재 챕터가 액트의 전체 챕터 중 몇 번째인지 보입니다. 0.3.77의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-11-01T08:58:52.821Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDQxbXEyVDZJK3JaUDY4NE1jcHlTc28yekRSM0pJSjJPclhCSEQxUGJLcWU4UGlYZzlHS0NWL3RteEd4TG9kaTgxWjNEUDhjMGE3SzdpS0hYNTd4YWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDczNDg3CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy43N194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjc3CkhqK3FJRFd6ajk3VWNGb0JLUk5LaVRJNldjbmxkWkxvN1dtL2lDTDZNM0lneUVBRldZVEg0bUFkZWo3RElnYnFYYkhqN05ZMXFZQjhjMWllWDlHQkFBPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.77/poe2way-desktop_0.3.77_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHlKbnBkb3pNUFQveDNwcEhFeWlCc1RvUzBlbnNyUDFRa1BmejFhNlZZNmY0UUJWRHBDbGZlNnRjYkZRV1F5bmg1d3JXWFRzdmhIUkgwdTBONEhyR0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTIzMzM4CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy43OF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjc4CkZzMGxYck9IcXFYbXZuZHZZaTlTbUhrNHB0enpkS01TUGRUZGw2T3dqeDR1ZWUwdU5ZYTBmSlhHSjZWOGtXOHZVMUt3UXVhZytkeEpWUldsYlVKNUNnPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.78/poe2way-desktop_0.3.78_x64-setup.exe"
     }
   }
 }
