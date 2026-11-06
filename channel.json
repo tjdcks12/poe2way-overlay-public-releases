@@ -1,11 +1,11 @@
 {
-  "version": "0.3.81",
-  "notes": "# poe2way desktop 0.3.81\n\n오버레이를 다른 모니터로 옮길 수 있습니다. 다른 모니터에 놓은 창은 그 모니터 안에 그대로 남고, 크기 조절도 그 모니터 안에서 됩니다. 0.3.80의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-11-06T10:26:34.576Z",
+  "version": "0.3.82",
+  "notes": "# poe2way desktop 0.3.82\n\n게임 클라이언트 0.5.5f 자료로 갱신했습니다. AI의 게임 자료·패시브 트리·아틀라스 정보·정규식, 크래프팅 카탈로그가 새 패치 기준입니다. 0.3.81의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-11-06T11:18:46.142Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDY5eVU4K2RWMDVOSzZJMXFkUjVuNmpQTFBzaTMxZGo2Q0lrckNmNzJXUjhhZlNra2dxcVpvUmxBa0JmK0M5U1NYb3l5K2wrM3FmWkkrMDdFdmdnYndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTYwNTc5CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy44MV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjgxCmdHeDV1dlhDWlNnV1FRUElHdUdnekprbmxad2szUHpJb05NQ2ZqTUNmam9qY2JoRGlQNzVXeVprbWx4MXJLZ2cwNVZiVU9IM3k4KzNpL2pIb2ZDNUJ3PT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.81/poe2way-desktop_0.3.81_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDVvNGQxMiticEhwTWg2T3JsalFhUXpoMGpWNjBxd2pVNlR6N0JrYk84d2NIaWk4Yk9kYUFVVnR4L3JPZFdBUjhvTDNIUjNMQkpUOTVza1lhdXlXYkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTYzNjYyCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy44Ml94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjgyCkpYMFFOMW03YldmR3JvZ0MrWGlkdnFUUFREc29SV0pVMWJZU0c2RFpYZHV5MitOdThIMUtzMmhPZDNzR29xVFkySGdEWjVNbk10OWJ5QlBnWUpDaEJnPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.82/poe2way-desktop_0.3.82_x64-setup.exe"
     }
   }
 }
