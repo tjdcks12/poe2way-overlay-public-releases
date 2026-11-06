@@ -1,11 +1,11 @@
 {
-  "version": "0.3.80",
-  "notes": "# poe2way desktop 0.3.80\n\n앱 내장 AI 비서 POE2WAY AI를 Premium 회원이 쓸 수 있습니다. Premium은 실시간 검색 20개, 보관함 가치 기록, AI 고급 도구(시세 분석·거래 검색·정규식 생성·제작 계획·빌드 계산)를 포함합니다. 옵션 분석 데이터 수집은 스위치 하나로 켜고 끄며 처음에는 켜진 상태로 안내가 나옵니다. 창 모드에서 오버레이를 게임 창 옆 빈 공간에 둘 수 있습니다. 0.3.79의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-11-06T10:07:25.514Z",
+  "version": "0.3.81",
+  "notes": "# poe2way desktop 0.3.81\n\n오버레이를 다른 모니터로 옮길 수 있습니다. 다른 모니터에 놓은 창은 그 모니터 안에 그대로 남고, 크기 조절도 그 모니터 안에서 됩니다. 0.3.80의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-11-06T10:26:34.576Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDZhSFNTaE9JNGNtVnNrbmk2ZFE3NUZ3bXhPblREWWR6WE9zenYxTS9hbGM1YlMwSHZhd1VMcW1RREVUTHpQRzR3UjIwaHJYdDlnL2xPT1JsMk0xNFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTU5NDI1CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy44MF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjgwCjNud2pvbE9ta2U1Z1Z0eUxOZEJjK0JERlhoWnF4VFV6MkRiNmtyUi9ISDNLSlFMZmZGK2xBVWMzUlREd0NpMTNwaTd2QUZ6aGlhVklYWkx3dm9Yb0JnPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.80/poe2way-desktop_0.3.80_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDY5eVU4K2RWMDVOSzZJMXFkUjVuNmpQTFBzaTMxZGo2Q0lrckNmNzJXUjhhZlNra2dxcVpvUmxBa0JmK0M5U1NYb3l5K2wrM3FmWkkrMDdFdmdnYndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTYwNTc5CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy44MV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjgxCmdHeDV1dlhDWlNnV1FRUElHdUdnekprbmxad2szUHpJb05NQ2ZqTUNmam9qY2JoRGlQNzVXeVprbWx4MXJLZ2cwNVZiVU9IM3k4KzNpL2pIb2ZDNUJ3PT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.81/poe2way-desktop_0.3.81_x64-setup.exe"
     }
   }
 }
