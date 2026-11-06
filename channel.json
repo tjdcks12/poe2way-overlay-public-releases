@@ -1,11 +1,11 @@
 {
-  "version": "0.3.79",
-  "notes": "# poe2way desktop 0.3.79\n\nPOB 연결 설정에서 DPS 계산 기준 스킬을 빌드별로 고를 수 있습니다. PoB 파일은 바뀌지 않고, 고른 스킬은 Alt+E 비교에도 적용되며 파일이 다시 읽혀도 유지됩니다. 빌드 불러오기를 한 목록으로 합쳐 고르면 바로 열리고, 공유 코드는 모달 창에서 입력하며, 연결 설정은 항상 펼쳐져 있습니다. 0.3.78의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-11-02T13:58:28.529Z",
+  "version": "0.3.80",
+  "notes": "# poe2way desktop 0.3.80\n\n앱 내장 AI 비서 POE2WAY AI를 Premium 회원이 쓸 수 있습니다. Premium은 실시간 검색 20개, 보관함 가치 기록, AI 고급 도구(시세 분석·거래 검색·정규식 생성·제작 계획·빌드 계산)를 포함합니다. 옵션 분석 데이터 수집은 스위치 하나로 켜고 끄며 처음에는 켜진 상태로 안내가 나옵니다. 창 모드에서 오버레이를 게임 창 옆 빈 공간에 둘 수 있습니다. 0.3.79의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-11-06T10:07:25.514Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDBuR2hHR2oyWXZGR3Fxc0ZlOTlSTnVPNEFDcG9hVU5DR09QNW1YbzQ1cTNDdi9pbUFXWDFqajk5SERCWnF1aEgyNmJ5ZG9pSkJUM2JDSzdDcGFNdlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjI3NzM2CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy43OV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjc5CnpXakhzR0l5TmxiQzUzamNxM1NFd3hIM2Y1UmFGQU5Pd2FVTDV4anNpYUdvcmQwOUJuUUQwYmNHRUVqZnhxczhtZUVvOUJtd1BvbEZYeU9xUTdjUERnPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.79/poe2way-desktop_0.3.79_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDZhSFNTaE9JNGNtVnNrbmk2ZFE3NUZ3bXhPblREWWR6WE9zenYxTS9hbGM1YlMwSHZhd1VMcW1RREVUTHpQRzR3UjIwaHJYdDlnL2xPT1JsMk0xNFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTU5NDI1CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy44MF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjgwCjNud2pvbE9ta2U1Z1Z0eUxOZEJjK0JERlhoWnF4VFV6MkRiNmtyUi9ISDNLSlFMZmZGK2xBVWMzUlREd0NpMTNwaTd2QUZ6aGlhVklYWkx3dm9Yb0JnPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.80/poe2way-desktop_0.3.80_x64-setup.exe"
     }
   }
 }
