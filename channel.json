@@ -1,11 +1,11 @@
 {
-  "version": "0.3.82",
-  "notes": "# poe2way desktop 0.3.82\n\n게임 클라이언트 0.5.5f 자료로 갱신했습니다. AI의 게임 자료·패시브 트리·아틀라스 정보·정규식, 크래프팅 카탈로그가 새 패치 기준입니다. 0.3.81의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-11-06T11:18:46.142Z",
+  "version": "0.3.83",
+  "notes": "# poe2way desktop 0.3.83\n\n0.3.82의 기능을 유지하는 유지보수 업데이트입니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-11-07T07:37:12.471Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDVvNGQxMiticEhwTWg2T3JsalFhUXpoMGpWNjBxd2pVNlR6N0JrYk84d2NIaWk4Yk9kYUFVVnR4L3JPZFdBUjhvTDNIUjNMQkpUOTVza1lhdXlXYkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTYzNjYyCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy44Ml94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjgyCkpYMFFOMW03YldmR3JvZ0MrWGlkdnFUUFREc29SV0pVMWJZU0c2RFpYZHV5MitOdThIMUtzMmhPZDNzR29xVFkySGdEWjVNbk10OWJ5QlBnWUpDaEJnPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.82/poe2way-desktop_0.3.82_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDBIbVNqdXg1M2dGQWZHc0JlY2E5dWV6MFFNYTJ4VjhIS200OGYveWxyM2VWS000bVBKQTA3RE0velhLRExJZE9haW9XRXptcFNIelgzdm1RRWdqSFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDM2OTgzCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy44M194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjgzCnFFcmJTYWdWVEhIZkowV0p0dHA4aC84Vk5IVnFKZTFyWEEwdWg2bS9MUUkyeUVJcTE0bVhtVEdPWW4xQUhUVFJkK3hlSkNYeElvbmdmVll1NnN4QUJnPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.83/poe2way-desktop_0.3.83_x64-setup.exe"
     }
   }
 }
