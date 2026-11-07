@@ -1,11 +1,11 @@
 {
-  "version": "0.3.83",
-  "notes": "# poe2way desktop 0.3.83\n\n0.3.82의 기능을 유지하는 유지보수 업데이트입니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-11-07T07:37:12.471Z",
+  "version": "0.3.84",
+  "notes": "# poe2way desktop 0.3.84\n\n거래소 로그인 창을 열 때 발생할 수 있는 오류를 줄였습니다. POB 연결의 장비명과 주얼 홈을 앱 언어로 표시하고, 아이템 평가와 매물 미리보기에 희귀 아이템 이름을 베이스명과 함께 보여 줍니다. 매물 검색 조건은 기존과 같습니다. 0.3.83의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-11-07T16:01:01.961Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDBIbVNqdXg1M2dGQWZHc0JlY2E5dWV6MFFNYTJ4VjhIS200OGYveWxyM2VWS000bVBKQTA3RE0velhLRExJZE9haW9XRXptcFNIelgzdm1RRWdqSFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDM2OTgzCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy44M194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjgzCnFFcmJTYWdWVEhIZkowV0p0dHA4aC84Vk5IVnFKZTFyWEEwdWg2bS9MUUkyeUVJcTE0bVhtVEdPWW4xQUhUVFJkK3hlSkNYeElvbmdmVll1NnN4QUJnPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.83/poe2way-desktop_0.3.83_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDRXQ0dNMmRnQ0pMa3UyNlVYZGpHdmpoeHpnRGJEb21QRFhwSEVrSHZIRWwzUkVMUURESG1lVFZyeGpCRit5VXE3dzRrbmxXc3M4cnFmSzhqSWFvdXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDY3MDEzCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy44NF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjg0CjB3eHFISXY0L245ZHB5eEsrL1cyaS9mZWFlUHNydWlMcGxTeHl4Z3p3SmpFQWlCZ2FmUXYxZzc5L0cvY1k5QnUyOFpzdk1iZ0RWMEpUMy9yOGhjWEFRPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.84/poe2way-desktop_0.3.84_x64-setup.exe"
     }
   }
 }
