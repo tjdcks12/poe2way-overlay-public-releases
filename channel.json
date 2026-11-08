@@ -1,11 +1,11 @@
 {
-  "version": "0.3.84",
-  "notes": "# poe2way desktop 0.3.84\n\n거래소 로그인 창을 열 때 발생할 수 있는 오류를 줄였습니다. POB 연결의 장비명과 주얼 홈을 앱 언어로 표시하고, 아이템 평가와 매물 미리보기에 희귀 아이템 이름을 베이스명과 함께 보여 줍니다. 매물 검색 조건은 기존과 같습니다. 0.3.83의 기능을 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-11-07T16:01:01.961Z",
+  "version": "0.3.85",
+  "notes": "# poe2way desktop 0.3.85\n\n아이템 감정창에서 POB 복사 버튼과 감정창 내부 Ctrl+B 단축키를 제거했습니다. 한국어 아이템은 PoB AI에서 게임 복사문을 직접 붙여 넣을 수 있습니다. 기존 POB 장비 비교 계산과 제작 검토 기능은 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-11-08T11:58:16.695777Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDRXQ0dNMmRnQ0pMa3UyNlVYZGpHdmpoeHpnRGJEb21QRFhwSEVrSHZIRWwzUkVMUURESG1lVFZyeGpCRit5VXE3dzRrbmxXc3M4cnFmSzhqSWFvdXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDY3MDEzCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy44NF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjg0CjB3eHFISXY0L245ZHB5eEsrL1cyaS9mZWFlUHNydWlMcGxTeHl4Z3p3SmpFQWlCZ2FmUXYxZzc5L0cvY1k5QnUyOFpzdk1iZ0RWMEpUMy9yOGhjWEFRPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.84/poe2way-desktop_0.3.84_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHdpT3pnWFNvMTVPNE41TVl6a0xJUk10RFE5Z3JqenpPTUNLK3dQY2x3NTdtZktNRHhGWGVBSU5xdDNoQlI1cWlpUzNHVyt1N0V5WG5QQys4aDQwOVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTM5MDc3CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy44NV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjg1CmM2WGNSWTFJUXIwZ1gwenRPYnRDTTJXZVh6Q1J0Z0EwK29zVHBlRkVoQ3FYVjJMNkVHWkFPcmdrTEFCNEZLT0dFL1JNVmo5ak1WODcybEJ1ZW5zUkRRPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.85/poe2way-desktop_0.3.85_x64-setup.exe"
     }
   }
 }
