@@ -1,11 +1,11 @@
 {
-  "version": "0.3.86",
-  "notes": "# poe2way desktop 0.3.86\n\n아이템 감정창이 게임 복사문의 고정 속성·스킬 부여·접두어·접미어 묶음과 각 묶음 안의 옵션 순서를 유지합니다. 분열·제작 여부에 따른 재정렬을 제거했고, 검색용 합계와 원문 옵션을 분리해 표시합니다. 기존 거래소 검색 조건과 POB 계산은 유지합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-11-08T13:01:26.724345Z",
+  "version": "0.3.87",
+  "notes": "# poe2way desktop 0.3.87\n\n감정창에서 판매자 은신처로 이동할 때 현재 계정으로 해당 매물을 다시 조회해 새 이동 토큰을 사용합니다. 매물 소멸·검색 변경 시 이동을 중단하며, Invalid query 오류에는 앱과 현재 캐릭터의 리그가 같은지 확인하도록 안내합니다. 리그 불일치를 자동 확정하거나 선택 리그를 자동 변경하지 않습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-11-08T13:50:49.073105Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDlsOU03RnJsQlhnZi9Gb0diNnBDNXMvdEcra1g1aENBbXphUkExZGdXQlBiZjM5dVBxV0JxYlFBVXArUWx3bWt0WGRXNTgyclFsYWZVVWd1Vitmb3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQyNjQ2CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy44Nl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjg2CkdnRWtTT0VWZHZQMXRqM3c1MHZ4R0tTVFFqcTQrRGdLS29HK1JwT3BPeGhqMSsxSngyY2E0SGswTFJYWHJaa1g1ZU1oUjFMdURFL0U1ZkhNVHdXV0JnPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.86/poe2way-desktop_0.3.86_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDdhN21NTkw5ME1pMGEyVXVqblhXcnRLYzY0U1NCTVFKUHFQbkprUmRqYXBWN20wS3FyYkJqV24ydU16SjJ5K0R5Q2ZMSmlaR3FmYlJpRlRqZWgxbmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQ1NjA0CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy44N194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjg3CkFvbHYzTjA4M3VrVmtxNVBaeXZJM0cxcGlTZGRTZ3l5MjVXVE5mYmNZQkxJa01DZWZzb1VtRnpOdkJ3Mzh2ZFp3VlpLZmJXT2FMOGJjL0J4VHhqZ0FnPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.87/poe2way-desktop_0.3.87_x64-setup.exe"
     }
   }
 }
