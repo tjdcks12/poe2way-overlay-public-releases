@@ -1,11 +1,11 @@
 {
-  "version": "0.3.90",
-  "notes": "# poe2way desktop 0.3.90\n\n보관함 탭 평가가 희귀 장비의 가격을 훨씬 많이 찾습니다. 옵션 태그를 게임 자료에서 찾아 검색 조건을 고르고, 비교 매물이 없으면 조건을 낮춰 최대 세 번까지 다시 찾습니다. 관측 공유를 켠 경우 수집된 매물 분석 자료가 있는 종류(반지·목걸이·갑옷·주얼·서판 등)는 그 자료로 검색할 옵션을 고릅니다. 가격마다 다섯 단계 신뢰도를 표시하며, 조건을 낮춰 찾았거나 등급만으로 고른 가격은 낮게 나옵니다. 합계와 인게임 강조에 포함할 최소 신뢰도를 고를 수 있습니다(기본값 \"보통 이상\"). 희귀 장비를 실제로 검색하므로 탭 조회 시간이 전보다 길어질 수 있습니다. Google 로그인을 마치면 브라우저가 poe2way.com의 안내 화면으로 이어집니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-11-10T16:29:12.481Z",
+  "version": "0.3.91",
+  "notes": "# poe2way desktop 0.3.91\n\n보관함 탭 평가 화면을 간결하게 다듬었습니다. 합계 아래에는 어떤 신뢰도의 가격을 합산했는지 한 문장으로 알려 주고, 확인 전인 아이템이 있으면 진행 게이지를 보여 줍니다. 아이템 상세는 가격 범위, 비교 매물 수, 찾은 방법, 검색 조건만 남겼고, 왼쪽 탭 카드에서는 진행 상태 문구를 뺐습니다. 매물이 충분한데도 비교 매물이 적다는 경고가 뜨던 문제를 고쳤습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-11-10T17:08:26.976Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDBQMXREQUZ5Qnd2NGUxVUF6UGtYdmhQUEk3SHE5WGdubnhZVEMxVHhBVjNkNTZnL0ZZVjJYSFhVZndnZ2h5QVozbXRIaVByZnUzOG42SXVLMzdwQ3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzI4MDAxCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy45MF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjkwClJLU0x2SGpIblZxMyswbzlqNVZob1ZuQ0t2NDd1N2hJT3d5YXBpcDE3OUFuVkNURk5HdkNzQjZCK2N0Q2k3QXN6ai9maXI0L1pTdkZobEwzQWtERkJBPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.90/poe2way-desktop_0.3.90_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDI5UHZDeDVEYlozYXdxVWF5ZGFEUkNwcDY5Qno2VFFwMW5JV1NibWdnMCtCd3dNYzdDTnpJcjQ4V3JHSUgvU1RJazUvZklTczhEbXBQSmdBeUtTVndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzMwMzY4CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuMy45MV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjkxCjRWNW8vMmZlSGFqZDQ3cVFpeVlwbkFYdEtjWk1NZTVnQXpkWk1CV0U5Ylh2dWZ2QkttVzE3U3hIdkwwTldDYktUazFDR3BsQWEydkh4d012VDdwc0NBPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.3.91/poe2way-desktop_0.3.91_x64-setup.exe"
     }
   }
 }
