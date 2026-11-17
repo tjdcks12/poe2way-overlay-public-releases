@@ -1,11 +1,11 @@
 {
-  "version": "0.4.12",
-  "notes": "# poe2way desktop 0.4.12\n\nAlt+E 빌드 비교를 다듬었습니다. 지금 끼고 있는 아이템을 다시 평가하면 \"지금 끼고 있는 아이템 · 바뀌는 것 없음\"으로 보입니다(PoB와 게임의 룬 효과 반올림 차이로 생기던 -0.3% 같은 숫자를 없앴습니다). 아이템 썸네일에 마우스를 올리면 게임 툴팁처럼 옵션 전체를 볼 수 있고, 썸네일은 원래 비율로 보입니다. 평가 결과 위치 버튼은 창 제목줄의 설정 단추 옆으로 옮겼습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-11-17T19:04:33.018Z",
+  "version": "0.4.13",
+  "notes": "# poe2way desktop 0.4.13\n\nAlt+E를 다듬었습니다. 썸네일에 마우스를 올렸을 때 뜨는 아이템 카드가 창 밖으로 잘리지 않게 위·아래·옆 중 들어가는 자리에 뜨고, 썸네일을 더 크게 보여 줍니다. 옵션 탭은 접두·접미 옵션만 분석 대상으로 보여 주고(암시·룬·인챈트 제외), 옵션 이름을 앱 언어로 보여 주며, 분석 자료가 없을 때 안내를 쉬운 말로 바꿨습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-11-17T19:32:56.420Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbCswb3J0d2J5WFpTcnc2b29SRlIwczFoOURxZTdIaE8zaTV1WU5yclNlUVkvL1N2bEdDVzFVRHBrSzZpZXh3azlTNWVETk02aFB3cXcxbVlZRUY0RHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQyMDIyCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC4xMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjEyCjA0MHluUExrUDJTVDhsTkhxbnMwNS9pSlY5THh0eWRsL2ZuMnhnd1RadFEwdjV3eTZzWWpoOHEzMGlRM0xQOGlwQjNLNHk4bDZYeUFOeHl5alEwdUNRPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.12/poe2way-desktop_0.4.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDM2Y1dUWU1Ca2ZzV25XVGZUNlVDYW5yM3FvdWMzSFlGWTRPNk1UQVdWdXd1c2hQNFhDLzhDbUxzQnR1WlZPLzBaVGNVTDlYZ3RSaENFaU4yREVLWEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQzNzgzCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC4xM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjEzCi9KNThIVnhtb1oyaDMwUk5XNFMwTW1rU0Q1MFQ1NG4wUnZIM1I1czNxWG4wR3p2cnlNRU5LZzQwaUtYRHNJQXg0M1ZIMjd4akhyVy9YNXdpcCt4dURnPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.13/poe2way-desktop_0.4.13_x64-setup.exe"
     }
   }
 }
