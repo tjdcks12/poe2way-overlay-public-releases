@@ -1,11 +1,11 @@
 {
-  "version": "0.4.13",
-  "notes": "# poe2way desktop 0.4.13\n\nAlt+E를 다듬었습니다. 썸네일에 마우스를 올렸을 때 뜨는 아이템 카드가 창 밖으로 잘리지 않게 위·아래·옆 중 들어가는 자리에 뜨고, 썸네일을 더 크게 보여 줍니다. 옵션 탭은 접두·접미 옵션만 분석 대상으로 보여 주고(암시·룬·인챈트 제외), 옵션 이름을 앱 언어로 보여 주며, 분석 자료가 없을 때 안내를 쉬운 말로 바꿨습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-11-17T19:32:56.420Z",
+  "version": "0.4.14",
+  "notes": "# poe2way desktop 0.4.14\n\n즐겨찾기 실시간 검색으로 받은 새 매물도 옵션 시세 분석 자료로 쓸 수 있게 했습니다. 이미 받은 매물만 쓰고 거래소 요청은 늘지 않으며, 수집 안내에 실시간 검색을 추가해 한 번 다시 알려 드립니다. 설정에서 언제든 끌 수 있습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-11-17T20:11:37.750Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDM2Y1dUWU1Ca2ZzV25XVGZUNlVDYW5yM3FvdWMzSFlGWTRPNk1UQVdWdXd1c2hQNFhDLzhDbUxzQnR1WlZPLzBaVGNVTDlYZ3RSaENFaU4yREVLWEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQzNzgzCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC4xM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjEzCi9KNThIVnhtb1oyaDMwUk5XNFMwTW1rU0Q1MFQ1NG4wUnZIM1I1czNxWG4wR3p2cnlNRU5LZzQwaUtYRHNJQXg0M1ZIMjd4akhyVy9YNXdpcCt4dURnPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.13/poe2way-desktop_0.4.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDhBWGRHcThzaEVoM004em93ZUtjbTZPSCswSkVNRkxwL0RxWXJ5dEFxRmtGL0hBcVhhK1YrMnBmaStyUmFKMFZORVhTdkFJMlhUL1lSaDZaNlJOcXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQ2MDYyCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC4xNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjE0CmtZaTRXUHc1TkN5N3FORmozeGlvQ3BsejlSeHJrTkZ5dzVyaG0zSlYxcXNEODVta2RhV1JKODhCUDVYK1c0T3Iwc1ZRd3N2cGlXeFBtVGM0aURzekNRPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.14/poe2way-desktop_0.4.14_x64-setup.exe"
     }
   }
 }
