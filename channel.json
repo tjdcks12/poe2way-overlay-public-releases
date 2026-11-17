@@ -1,11 +1,11 @@
 {
-  "version": "0.4.9",
-  "notes": "# poe2way desktop 0.4.9\n\n제작 시뮬레이터의 재화함을 다듬었습니다. 0.4.8에서 장비 제작 탭과 드롭다운을 없애고 기폭제·퀄리티·소켓·룬·합금·특수 재화를 한 줄 탭으로 폈고, 이번에는 가려진 탭이 있는 쪽 끝에 화살표 버튼을 넣어 누르면 탭 줄이 넘어가게 했습니다. 마우스로 끌어서 미는 방식은 뺐고 휠은 그대로 됩니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-11-17T16:40:54.160Z",
+  "version": "0.4.10",
+  "notes": "# poe2way desktop 0.4.10\n\nAlt+E 빌드 비교를 다시 정리했습니다. 설정 › POB 연결에 PoB AI가 자동 갱신하는 내 캐릭터와 마지막 갱신 시각이 보이고, 갱신이 멈추면 이유와 해결 버튼을 함께 알려 줍니다. Alt+E는 \"지금 장비와 비교\"로 이름을 바꾸고 슬롯마다 지금 장비와 이 아이템을 썸네일로 나란히 보여 줍니다. 비교할 내 장비도 썸네일로 고르고, \"이걸 꼈어요\" 버튼은 한 번 누르는 \"빌드에 반영\"으로 바꿨습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-11-17T17:13:28.497Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHhFbVdRMzR6MEh5Nis1Qlp1V2szTXBpc0pkREZXR0Z3QWl1SDFrWXlUelhuRzg3YWdzNGF5UEo4WklYcWkyelEway9EVExtalR2Rk9keGt6L1BzYVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTMzNDEyCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuOQowMVZ4WmxoSFlMRHJOUEwrZmVyR0gvMHZOUFUvdlJ0SURscDBMVVZER1NBK2xTcnBTa0N3ekQxTHNtbHFJRzFkdmlNNTB3Z1ljTXdzRDk4SWJRU2ZEQT09Cg==",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.9/poe2way-desktop_0.4.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbCthaG9ZMmVwVytVZ0xtaDRISVRJcUl5SlNoRFI3VzE1ZVJVM3ZoUDVxVUlybUZhVmV6U2taL1NTNkZQd2t4RlhVcTkzMTRESWZMdm44ZlR6alk1M2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTM1MjkyCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC4xMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjEwCjhpQ1NFNVh1M3VlUkdXYjJjOGY2NFg3UVd4M2pVRnpFbzVJamNRMTh5NzBHZXRtcFpWSzhDQlJaVXRkMEw0NlhnWmZwTUMyekdlU2VsamhmVXE3RkJBPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.10/poe2way-desktop_0.4.10_x64-setup.exe"
     }
   }
 }
