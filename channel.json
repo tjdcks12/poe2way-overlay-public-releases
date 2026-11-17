@@ -1,11 +1,11 @@
 {
-  "version": "0.4.8",
-  "notes": "# poe2way desktop 0.4.8\n\nWindows x64 일반판입니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-11-17T15:54:32.042Z",
+  "version": "0.4.9",
+  "notes": "# poe2way desktop 0.4.9\n\n제작 시뮬레이터의 재화함을 다듬었습니다. 0.4.8에서 장비 제작 탭과 드롭다운을 없애고 기폭제·퀄리티·소켓·룬·합금·특수 재화를 한 줄 탭으로 폈고, 이번에는 가려진 탭이 있는 쪽 끝에 화살표 버튼을 넣어 누르면 탭 줄이 넘어가게 했습니다. 마우스로 끌어서 미는 방식은 뺐고 휠은 그대로 됩니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-11-17T16:40:54.160Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDlnbUtQS0Rzald3ek5ZYWRRbFZoNVJrcWZRRTFnR1pOemJoSDF1eFFYWEN0cGJQeU5nR3ZjU2c3eHdveEFNYmhBWmsvK0U2M2lYdHhxcThrZkhsNlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTMwNjk3CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC44X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuOApmek16TXoxaTVFQlNsVTdDcThYem84Ukh0c0dFR0h1K1M3Z0Y1ZitvTTJ2Q1dtaU5PRHJCeEhRZ0xteGVrS0RGR3UrRVBhZHhoeUVDaHVLZWF1aXlCQT09Cg==",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.8/poe2way-desktop_0.4.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHhFbVdRMzR6MEh5Nis1Qlp1V2szTXBpc0pkREZXR0Z3QWl1SDFrWXlUelhuRzg3YWdzNGF5UEo4WklYcWkyelEway9EVExtalR2Rk9keGt6L1BzYVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTMzNDEyCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuOQowMVZ4WmxoSFlMRHJOUEwrZmVyR0gvMHZOUFUvdlJ0SURscDBMVVZER1NBK2xTcnBTa0N3ekQxTHNtbHFJRzFkdmlNNTB3Z1ljTXdzRDk4SWJRU2ZEQT09Cg==",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.9/poe2way-desktop_0.4.9_x64-setup.exe"
     }
   }
 }
