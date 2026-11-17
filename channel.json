@@ -1,11 +1,11 @@
 {
-  "version": "0.4.11",
-  "notes": "# poe2way desktop 0.4.11\n\n빌드 비교를 더 믿을 수 있게 고쳤습니다. 한국어 아이템의 \"모든 능력치\"와 룬 옵션이 PoB 계산에서 빠져 같은 아이템인데도 DPS가 다르게 나오던 문제를 고쳤습니다. Alt+E에서 지금 장비와 이 아이템 썸네일을 누르면 두 아이템의 스펙이 나란히 펼쳐지고, 한쪽에만 있는 옵션을 강조합니다. 평가 결과는 아래·오른쪽·왼쪽 중 원하는 곳에 둘 수 있습니다. 설정 › POB 연결에는 비교에 쓰는 PoB 빌드 파일과 그 파일을 가져온 캐릭터가 바로 보이고, 공유 코드 빌드는 자동으로 갱신되지 않는다고 알려 줍니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-11-17T18:17:24.364Z",
+  "version": "0.4.12",
+  "notes": "# poe2way desktop 0.4.12\n\nAlt+E 빌드 비교를 다듬었습니다. 지금 끼고 있는 아이템을 다시 평가하면 \"지금 끼고 있는 아이템 · 바뀌는 것 없음\"으로 보입니다(PoB와 게임의 룬 효과 반올림 차이로 생기던 -0.3% 같은 숫자를 없앴습니다). 아이템 썸네일에 마우스를 올리면 게임 툴팁처럼 옵션 전체를 볼 수 있고, 썸네일은 원래 비율로 보입니다. 평가 결과 위치 버튼은 창 제목줄의 설정 단추 옆으로 옮겼습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-11-17T19:04:33.018Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDRhTVJ6dkM2QXlLVWZCK1VqU2luTEZhUjRzWkxFNGcvZ29GemVDZDFKMzh1NDhUazg3MTRsUGFpR2ZLWWx4Q2lpd3ZZWmcrVXAzTFNQOGhHb0xNbmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTM5MjUyCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC4xMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjExClNaQ1NTbmxycnFFZ3JaYTJ0TDlQU01Mdjh1c1FwWjJucnpkdHAxeGZVOURPSlkxT2trRDBENTRWcUwzMzN6NEErMTFqeGlVRm0xdnVlTUJwejZEN0FRPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.11/poe2way-desktop_0.4.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbCswb3J0d2J5WFpTcnc2b29SRlIwczFoOURxZTdIaE8zaTV1WU5yclNlUVkvL1N2bEdDVzFVRHBrSzZpZXh3azlTNWVETk02aFB3cXcxbVlZRUY0RHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQyMDIyCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC4xMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjEyCjA0MHluUExrUDJTVDhsTkhxbnMwNS9pSlY5THh0eWRsL2ZuMnhnd1RadFEwdjV3eTZzWWpoOHEzMGlRM0xQOGlwQjNLNHk4bDZYeUFOeHl5alEwdUNRPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.12/poe2way-desktop_0.4.12_x64-setup.exe"
     }
   }
 }
