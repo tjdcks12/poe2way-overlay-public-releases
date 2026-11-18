@@ -1,11 +1,11 @@
 {
-  "version": "0.4.15",
-  "notes": "# poe2way desktop 0.4.15\n\n아이템 평가의 옵션 탭이 두 줄짜리 접두·접미를 옵션 하나로 셉니다. 접두 3개·접미 3개인 아이템이 9개가 아니라 6개로 보이고, 같은 옵션의 줄은 한 행에 묶여 보입니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-11-18T04:08:43.025Z",
+  "version": "0.4.16",
+  "notes": "# poe2way desktop 0.4.16\n\n아이템 평가(Alt+E)의 옵션 탭이 검증된 분석이 아직 없는 아이템 종류에도 같은 리그 거래소 호가로 계산한 옵션 중요도를 \"참고용\"으로 보여 줍니다. 게임 패치가 나와도 리그가 같으면 분석이 계속 보입니다. 제작 시뮬레이터에서 주얼과 액체 감정을 다룰 수 있고, 게임 자료를 0.5.5g 기준으로 갱신했습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-11-18T08:57:38.529Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDRpa2FvcGs1OVp2dk9xZ2wwckJzQUQzS09yTEIzNVZHejM3N01sUmpEUVFaMHVGaTk0R0trWEpWdXQyNTVPVUc2WWQ1YjE0TFNaeTU1TDRMRzJwc0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTc0NzQwCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC4xNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjE1CmQwYmkvNlBYOEw3Yk5EbGVEbTc4MG42UGFjRU5ZQnNjVC9oRnJBd1VmUGVLaS9wS1J5RmlZd2NrTDJDd0dRc2FoV25QSTlGcDNPalJNeUk0WTJPT0JBPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.15/poe2way-desktop_0.4.15_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHlLbWZSS24zMDBPanZJTlJsU2czSm03alNSNStqNnpKam5URHllaWdLTVpqUjBuY3BEdTdiOG5tRDMxcllsUmd4ZlBJZ3JUWmtDc1FjclZZMXpYOXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTkyMDUyCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC4xNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjE2CkNIaU1GZDQzdHJnRktjRDRTZS9vVXVHUFFMYkN5blZiYTkyRzdmdGFrTmtXZkoxaC9JQktvMXVOOHJGQU9rOUpvMzVJK1pIckFtTExDQ3cxN1l5b0R3PT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.16/poe2way-desktop_0.4.16_x64-setup.exe"
     }
   }
 }
