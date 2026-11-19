@@ -1,11 +1,11 @@
 {
-  "version": "0.4.16",
-  "notes": "# poe2way desktop 0.4.16\n\n아이템 평가(Alt+E)의 옵션 탭이 검증된 분석이 아직 없는 아이템 종류에도 같은 리그 거래소 호가로 계산한 옵션 중요도를 \"참고용\"으로 보여 줍니다. 게임 패치가 나와도 리그가 같으면 분석이 계속 보입니다. 제작 시뮬레이터에서 주얼과 액체 감정을 다룰 수 있고, 게임 자료를 0.5.5g 기준으로 갱신했습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-11-18T08:57:38.529Z",
+  "version": "0.4.17",
+  "notes": "# poe2way desktop 0.4.17\n\n게임 보관함 가격 강조 테두리가 아이템 툴팁을 덮지 않습니다. 툴팁에 가려진 칸의 테두리와 가격은 잠시 숨겼다가 툴팁이 사라지면 다시 표시합니다. 제작 시뮬레이터에서 옵션 5개 주얼을 다룰 수 있습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-11-19T15:40:44.032Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHlLbWZSS24zMDBPanZJTlJsU2czSm03alNSNStqNnpKam5URHllaWdLTVpqUjBuY3BEdTdiOG5tRDMxcllsUmd4ZlBJZ3JUWmtDc1FjclZZMXpYOXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTkyMDUyCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC4xNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjE2CkNIaU1GZDQzdHJnRktjRDRTZS9vVXVHUFFMYkN5blZiYTkyRzdmdGFrTmtXZkoxaC9JQktvMXVOOHJGQU9rOUpvMzVJK1pIckFtTExDQ3cxN1l5b0R3PT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.16/poe2way-desktop_0.4.16_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDVZVlhSSkpVMHpUamF6SndUc0ZEOEpVNlJUNHhUN0xtWExSSUVSQUNCTDA3dmIvRTEwVzBGd2JLczlPMG1teE43Z2R6ZWNmOURWQ1Q2RVdSMDlOSVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTAyNjM2CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC4xN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjE3CmdldGkxdjJGTU9FMWc0UWxlSFZzd0hwd3ZiaHNpSmcrU3RVRnZ6M0pLQkJHV2kyNGZSelRIUk0wNFpmSjdHUGlQNkE2OVh6ZldXTG5hZkNiRzJDQURRPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.17/poe2way-desktop_0.4.17_x64-setup.exe"
     }
   }
 }
