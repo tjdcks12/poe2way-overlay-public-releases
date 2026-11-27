@@ -1,11 +1,11 @@
 {
-  "version": "0.4.18",
-  "notes": "# poe2way desktop 0.4.18\n\n아이템 툴팁이 떠 있는 동안에는 게임 보관함 가격 강조를 모두 숨깁니다. 툴팁이 사라지면 다시 표시합니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-11-20T04:32:13.850Z",
+  "version": "0.4.19",
+  "notes": "# poe2way desktop 0.4.19\n\n아이템 평가(Alt+E) 옵션 탭의 수치 차트를 알기 쉽게 바꿨습니다. 세로축은 이 아이템과 비교한 예상 시세(%)를 보여 주고, 차트 위에 \"이 옵션이 30이면 시세가 약 17% 더 높아요\"처럼 결론을 한 문장으로 알려 줍니다. 매물이 적은 구간은 점선으로 그리고 따로 안내합니다. 참고용 결과의 매물·출처 수 줄과 \"시세 중요도\" 열의 보조 문구를 빼서 화면을 간결하게 했습니다. 현재 리그에 분석 자료가 없으면 다른 리그의 자료를 참고용으로 보여 줍니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-11-27T09:24:32.129Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbCtTdlBrU1FtMmVwdnZERklKN0ZCc2lzOGNGMnhMM0dGZnZPOHZjQWZrT21ZZ3hMU3VKbFpJZE1ja245eTlvbENUdFprWjhrWFNyNS9zTytIVDRPOWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTQ4OTQ1CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC4xOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjE4CnBOeS9pMW9PTXNRUjJSLzQveG5wZFJiMUxuQmFrbzRicVBONmlHUDVoWmhlRzcvaHdVY21IUFlUNDZrVWc5d0xOV1N0WFV0UzFnRmtYM2U5Zld0YkNBPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.18/poe2way-desktop_0.4.18_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDBwSXBSVGg4YjNTSXBXNXhDcWRkVCtWaDg3N2UwMkFjZTN1NWtBeVVPNkgyUmFLUkY3Q2hPQ1ljL1ZURTkyNHBKZGpNUzhZblExQW5jZTlvTDBiNXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzcxMjgxCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC4xOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjE5CmxhWk5uTElaQTRMVzFqMHRmZTFkK0RSblRGeDBmKzloWlJFY3FIY3g1WklYTGJMOStnTFdLNlQzeVhIK24vZWdFMVlISDVJMHFWd0p4a0g0SXlPZkRnPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.19/poe2way-desktop_0.4.19_x64-setup.exe"
     }
   }
 }
