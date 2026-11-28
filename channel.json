@@ -1,11 +1,11 @@
 {
-  "version": "0.4.20",
-  "notes": "# poe2way desktop 0.4.20\n\n처음 실행하면 실제 화면을 하나씩 밝히며 소개하는 시작 안내가 나옵니다. 게임 위에서만 보이는 아이템 평가(Alt+E)와 보관함 가치 표시는 실제 게임 화면으로 보여 주고, 경제 탭과 AI Agent 패널은 직접 열어 예시 대화까지 보여 줍니다. 홈의 단축키 카드에서 언제든 다시 볼 수 있습니다. 게임 위 경제 요약을 여는 단축키(Alt+Shift+E)를 새로 추가하고, 액트 가이드 창의 경제 전환 버튼은 뺐습니다. 액트 가이드는 자동 따라가기가 기본으로 켜지고, 맵 레이아웃에는 참고용 표시가 붙습니다. 처음 설치할 때 시작 안내의 단축키가 '할당 안 됨'으로 보이던 문제를 고쳤습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-11-28T05:49:43.332Z",
+  "version": "0.4.21",
+  "notes": "# poe2way desktop 0.4.21\n\n0.4.20의 새 시작 안내를 예전 안내만 본 분들도 업데이트 뒤 한 번 보실 수 있게 했습니다. 실제 화면을 하나씩 밝히며 아이템 평가·보관함·경제·AI Agent를 소개하고, 홈의 단축키 카드에서 언제든 다시 볼 수 있습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-11-28T06:26:50.318Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDQ2bkN2QWM4L29Mb1JRRElCRkhhTDZQNDR0TU9KekZBWGxzR3lDbzNBMXV0TXNxaVpnTGlKbEFOczJ5TG9xTjFkZGxVUFJVMG54WFFDN0FvQmFna3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQ0NzcxCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC4yMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjIwCkJUQzV2R01hUExhWXZmbHdsMVJvbjZjazdQL3ZMVjBYV2k5MXFvMStlMGtNdVhpZXR0NUtnWnhkRlpScUdGTXlGeTZzTCtudGVuRW0zRUZya0JSMkNBPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.20/poe2way-desktop_0.4.20_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHhMMkp3aVMydnFmcDZMczY3cmlJbXBFaGhZR0NWSy9OaDBSR3lPditXa3JGQ0dNSC9oeDFYakZWWDdLalNsRy9Cc0dFZzkwT3ZxOVVQTjk2L1JPS0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQ3MDI3CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC4yMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjIxCkFvbmtWbzArVGF4OWlNTTYyeDJBL29pd3RCMVY1dWRVRmNzb0Z3czdpeUg5RVZFOUhDTlRIT3dmVWRtd3BGMU10bjNRbnRnQ1p4K0I5VGNLZUlsZkRBPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.21/poe2way-desktop_0.4.21_x64-setup.exe"
     }
   }
 }
