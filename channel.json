@@ -1,11 +1,11 @@
 {
-  "version": "0.4.21",
-  "notes": "# poe2way desktop 0.4.21\n\n0.4.20의 새 시작 안내를 예전 안내만 본 분들도 업데이트 뒤 한 번 보실 수 있게 했습니다. 실제 화면을 하나씩 밝히며 아이템 평가·보관함·경제·AI Agent를 소개하고, 홈의 단축키 카드에서 언제든 다시 볼 수 있습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-11-28T06:26:50.318Z",
+  "version": "0.4.22",
+  "notes": "# poe2way desktop 0.4.22\n\nAlt+E 옵션 분석이 하이브리드 옵션(예: 물리 피해 % 증가 + 정확도처럼 한 옵션에 두 효과가 붙은 것)을 단독 옵션과 따로 평가합니다. 하이브리드 옵션은 두 줄의 수치를 함께 보고 하나의 옵션으로 시세 영향을 계산해, 단독 옵션 값으로 잘못 보이던 문제를 고쳤습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-11-28T08:57:29.025Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbHhMMkp3aVMydnFmcDZMczY3cmlJbXBFaGhZR0NWSy9OaDBSR3lPditXa3JGQ0dNSC9oeDFYakZWWDdLalNsRy9Cc0dFZzkwT3ZxOVVQTjk2L1JPS0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQ3MDI3CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC4yMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjIxCkFvbmtWbzArVGF4OWlNTTYyeDJBL29pd3RCMVY1dWRVRmNzb0Z3czdpeUg5RVZFOUhDTlRIT3dmVWRtd3BGMU10bjNRbnRnQ1p4K0I5VGNLZUlsZkRBPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.21/poe2way-desktop_0.4.21_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDhMVFJNaVlWay9LL0cvaUJLZExaa0tnbUpqdmt2TzJueXZHK1hTOC9OS1NTZTZma0lpb0JQNFdDdldlaHBPTFczRjdFSC8yYjlha24vcUlkMEdjdUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODU2MDY0CWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC4yMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjIyCnZqRElNY2VrRWw0cVYveWkrYkphTWdPN3l5bnRoQVlvZEhWQVM4WnkveDZrc3BGZ1pta2RtRldNdytlM1RPcm5sOGFQM2lOdWlpaVUxTVBNSEF0ZEJnPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.22/poe2way-desktop_0.4.22_x64-setup.exe"
     }
   }
 }
