@@ -1,11 +1,11 @@
 {
-  "version": "0.4.19",
-  "notes": "# poe2way desktop 0.4.19\n\n아이템 평가(Alt+E) 옵션 탭의 수치 차트를 알기 쉽게 바꿨습니다. 세로축은 이 아이템과 비교한 예상 시세(%)를 보여 주고, 차트 위에 \"이 옵션이 30이면 시세가 약 17% 더 높아요\"처럼 결론을 한 문장으로 알려 줍니다. 매물이 적은 구간은 점선으로 그리고 따로 안내합니다. 참고용 결과의 매물·출처 수 줄과 \"시세 중요도\" 열의 보조 문구를 빼서 화면을 간결하게 했습니다. 현재 리그에 분석 자료가 없으면 다른 리그의 자료를 참고용으로 보여 줍니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
-  "pub_date": "2026-11-27T09:24:32.129Z",
+  "version": "0.4.20",
+  "notes": "# poe2way desktop 0.4.20\n\n처음 실행하면 실제 화면을 하나씩 밝히며 소개하는 시작 안내가 나옵니다. 게임 위에서만 보이는 아이템 평가(Alt+E)와 보관함 가치 표시는 실제 게임 화면으로 보여 주고, 경제 탭과 AI Agent 패널은 직접 열어 예시 대화까지 보여 줍니다. 홈의 단축키 카드에서 언제든 다시 볼 수 있습니다. 게임 위 경제 요약을 여는 단축키(Alt+Shift+E)를 새로 추가하고, 액트 가이드 창의 경제 전환 버튼은 뺐습니다. 액트 가이드는 자동 따라가기가 기본으로 켜지고, 맵 레이아웃에는 참고용 표시가 붙습니다. 처음 설치할 때 시작 안내의 단축키가 '할당 안 됨'으로 보이던 문제를 고쳤습니다.\n\n설치 파일의 업데이트 서명과 SHA-256을 함께 제공합니다.\n",
+  "pub_date": "2026-11-28T05:49:43.332Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDBwSXBSVGg4YjNTSXBXNXhDcWRkVCtWaDg3N2UwMkFjZTN1NWtBeVVPNkgyUmFLUkY3Q2hPQ1ljL1ZURTkyNHBKZGpNUzhZblExQW5jZTlvTDBiNXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzcxMjgxCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC4xOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjE5CmxhWk5uTElaQTRMVzFqMHRmZTFkK0RSblRGeDBmKzloWlJFY3FIY3g1WklYTGJMOStnTFdLNlQzeVhIK24vZWdFMVlISDVJMHFWd0p4a0g0SXlPZkRnPT0K",
-      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.19/poe2way-desktop_0.4.19_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSay9VbXRINFhYbDQ2bkN2QWM4L29Mb1JRRElCRkhhTDZQNDR0TU9KekZBWGxzR3lDbzNBMXV0TXNxaVpnTGlKbEFOczJ5TG9xTjFkZGxVUFJVMG54WFFDN0FvQmFna3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQ0NzcxCWZpbGU6cG9lMndheSBkZXNrdG9wXzAuNC4yMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjIwCkJUQzV2R01hUExhWXZmbHdsMVJvbjZjazdQL3ZMVjBYV2k5MXFvMStlMGtNdVhpZXR0NUtnWnhkRlpScUdGTXlGeTZzTCtudGVuRW0zRUZya0JSMkNBPT0K",
+      "url": "https://github.com/tjdcks12/poe2way-overlay-public-releases/releases/download/v0.4.20/poe2way-desktop_0.4.20_x64-setup.exe"
     }
   }
 }
